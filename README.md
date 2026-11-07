@@ -49,6 +49,32 @@ I move between founding, advising and building — from commercial strategy to t
 
 **Stay curious.** Explore AI and emerging tools as practical ways to create and test new possibilities.
 
+## How I work — tools, systems & technical capability
+
+I'm comfortable moving from strategy and early ideas into the practical work: setting up the infrastructure, designing the experience, introducing better workflows and getting something usable into people's hands.
+
+I don't believe in forcing every client into the same system. **The tools depend on the team, the existing stack and what we're trying to achieve.** My personal preference is usually **ClickUp or Notion** for organising work, and **Vercel** for building and deploying web projects.
+
+| Where I work | Tools I use | How I apply them |
+| --- | --- | --- |
+| **Project delivery & workflow efficiency** | ChatGPT, Claude, Notion, ClickUp, Confluence, Jira, monday.com | Translate priorities into actionable plans, build repeatable workflows, organise teams and improve how work gets done |
+| **Meetings & knowledge capture** | Fireflies | Capture discussions, decisions, minutes and follow-ups, then turn them into accountable actions |
+| **Presentations & content creation** | Gamma, Canva, ChatGPT | Develop narratives, creative concepts, presentations and first-draft documents; refine rather than treat AI output as finished work |
+| **Governance & document control** | Notion, Google Drive, Confluence | Structure policies, documentation, version control, access and shared knowledge according to client needs |
+| **Brand, UI/UX & creative work** | Figma, Adobe Creative Cloud, Canva | Explore visual identity, prototypes, interfaces, user journeys and marketing assets |
+| **AI models, agents & automation** | AI model training, custom agents and AI-assisted workflows | Work with datasets and research, refine analysis approaches, and develop agents for research, backend tasks and repeatable operations |
+| **Platforms & project infrastructure** | Vercel, AWS, GitHub | Set up and coordinate project environments, deployment workflows and supporting infrastructure |
+
+### What I'm confident doing
+
+**Strong / hands-on:** Product strategy, user-centred product development, design principles, value propositions, product marketing, AI workflow design, model training and refinement, agent development, project infrastructure planning and cross-functional delivery.
+
+**Working proficiency:** Figma and creative production tools; project and knowledge-management platforms; working with web deployment environments including Vercel and AWS. I can adapt to an existing client stack or establish a practical system where one is missing.
+
+**Foundational coding:** Basic **JavaScript and HTML**. I understand how digital products fit together and can prototype and collaborate effectively with developers, but I don't present myself as a specialist software engineer.
+
+**My approach:** Choose the right tools, understand the people using them, build for clarity and maintainability, and combine commercial thinking with creative and technical execution.
+
 ## Areas I'm exploring
 
 `Product strategy` · `UI/UX` · `AI-assisted prototyping` · `Digital commerce` · `Brand & creative direction` · `Climate tech` · `Business operations`
