@@ -25,7 +25,7 @@ Outside my core roles, I explore **product design, creative direction and applie
 I move between founding, advising and building — from commercial strategy to the details of a digital experience. These are a few of the ideas and products I'm shaping.
 
 <a href="projects/axiva.md"><img src="assets/axiva-cover.svg" alt="Axiva — AI product and customer experience case study" width="49%"></a>
-<a href="projects/varenne-blue.md"><img src="assets/varenne-cover.svg" alt="Varenne Residences — editorial UX and brand direction case study" width="49%"></a>
+<a href="projects/varenne-blue.md"><img src="assets/varenne-figma-home.png" alt="Varenne Residences — actual blue-identity homepage design from Figma" width="49%"></a>
 
 | **[Axiva — AI product & experience →](projects/axiva.md)** | **[Varenne — Blue identity & UI/UX →](projects/varenne-blue.md)** |
 |:---|:---|
