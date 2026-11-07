@@ -29,9 +29,7 @@ The brand proposition is straightforward: distinctive private homes, an informed
 
 ## 02 / A blue identity with editorial restraint
 
-![Varenne blue identity colour palette and editorial language](../assets/varenne-blue-brand-system.svg)
-
-The identity builds contrast between **contemporary energy and quiet composure**. The five core colours form a disciplined system:
+The original brand deck leads with architectural photography, tactile material references and editorial type — not a conventional swatch-board graphic. The palette is a supporting system rather than the hero visual. The five core colours are:
 
 | Colour | Hex | Role in the identity |
 | --- | --- | --- |
@@ -42,6 +40,8 @@ The identity builds contrast between **contemporary energy and quiet composure**
 | Graphite | `#303235` | Neutral structure and legibility |
 
 A second set of neutral explorations — chalk, oat, cool stone and pewter — supports both warmer, personal touchpoints and cooler architectural contexts. The guiding rule is **lead with light neutrals, anchor with ink, and use vivid blue intentionally**.
+
+The case-study visuals below use **actual screens from the working Figma design**, rather than a reconstructed brand moodboard.
 
 ### Typography and brand voice
 
