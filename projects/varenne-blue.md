@@ -21,7 +21,7 @@ I explored a brand and product direction in which individual homes have characte
 
 **The underlying idea: space, privacy and a collector's eye.**
 
-The name *Varenne* references an old French term associated with grazing land and historically with royal hunting reserves. The creative concept takes inspiration from a sense of space and privacy — **not** a claim of inherited estates, royalty or patronage.
+The name *Varenne* references an old French term associated with grazing land and historically with royal hunting reserves. The creative concept takes inspiration from a sense of space and privacy.
 
 The brand proposition is straightforward: distinctive private homes, an informed introduction, and personal care around the stay. I wanted a world with cultural substance and discretion, rather than overt status signalling.
 
