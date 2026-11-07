@@ -19,6 +19,11 @@ Axiva is the product of that work: a consumer-facing analysis experience built a
 
 ## What I built: the intelligence behind the experience
 
+![Axiva illustrated 78+ measurement and multi-factor analysis framework](../assets/axiva-measurement-framework.svg)
+
+*Conceptual illustration of five analysis domains—not a screenshot of the model's actual landmarks or diagnostic output.*
+
+
 **Axiva is not a general-purpose AI tool simply prompted to assess a face.** I developed its analytical approach specifically for facial assessment: the proportional frameworks, measurement categories, multi-factor interpretation methodology and the way findings are translated into a personalised report.
 
 The methodology draws on a substantial body of published research, including peer-reviewed studies across **maxillofacial surgery, aesthetic medicine and dermatology**. I used extensive datasets, real-world examples and research findings to train and refine the AI's analysis, rather than relying on generic image commentary.
@@ -34,6 +39,11 @@ The system evaluates **78+ measurements and factors**, considering their relatio
 The central principle is **context over isolated scores**. A finding only becomes meaningful when it is interpreted alongside the person's other features, natural variation and the limitations of photographic analysis.
 
 ## Training, research and evaluation
+
+![Axiva methodology process from peer-reviewed research and real-world datasets through multi-factor analysis, iteration and personalised reports](../assets/axiva-research-to-report.svg)
+
+*High-level illustration of the product development and analysis process; not a disclosure of the private model architecture or validation protocol.*
+
 
 This was as much a research and methodology challenge as it was a product challenge.
 
