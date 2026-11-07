@@ -29,7 +29,7 @@ The brand proposition is straightforward: distinctive private homes, an informed
 
 ## 02 / A blue identity with editorial restraint
 
-The original brand deck leads with architectural photography, tactile material references and editorial type — not a conventional swatch-board graphic. The palette is a supporting system rather than the hero visual. The five core colours are:
+The brand leads with architectural photography, tactile material references and editorial type. The palette is a supporting system. The five core colours are:
 
 | Colour | Hex | Role in the identity |
 | --- | --- | --- |
