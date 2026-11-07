@@ -123,6 +123,4 @@ This case study demonstrates work across several connected disciplines:
 
 **[Open the blue website art-direction and UI/UX exploration in Figma →](https://www.figma.com/design/bwZg9dIJOWcW8hhOogkRfS/Varenne-T2-V1-%E2%80%94-Private-View---Website-Art-Direction?node-id=0-1)**
 
-*Source: “Varenne Residences — Idea Two / Editorial Identity in Blue”, a nine-page concept deck, alongside the working blue-identity Figma designs. Some deck pages are exploratory and retain earlier naming or typography-layout studies; the case study focuses on the Varenne direction. Mock-ups and Figma captures represent creative concepts rather than a live, validated customer experience. Client-sensitive source assets and commercial information are not published.*
-
 **What this project demonstrates:** brand strategy, creative direction, visual systems, editorial storytelling, product thinking, information architecture, UX and conversion-oriented design.
