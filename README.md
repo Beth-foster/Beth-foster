@@ -1,12 +1,12 @@
 <div align="center">
 
-# Beth Foster
+![Beth Foster — Ideas into experiences](assets/hero.svg)
 
-### Founder · Consultant & Chief of Staff · Creative & Product Strategist
+**Founder · Consultant & Chief of Staff · Creative & Product Strategist**
 
-**Building businesses, products and experiences at the intersection of strategy, design and emerging technology.**
+Building businesses, products and experiences across strategy, design and emerging technology.
 
-[EcoGrade.ai](https://ecograde.ai) · [Selected work](#selected-work) · [How I work](#how-i-work)
+[Selected work](#selected-work) &nbsp; · &nbsp; [How I work](#how-i-work) &nbsp; · &nbsp; [EcoGrade.ai](https://ecograde.ai)
 
 </div>
 
@@ -22,58 +22,22 @@ Outside my core roles, I explore **product design, creative direction and applie
 
 ## Selected work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I move between founding, advising and building — from commercial strategy to the details of a digital experience. These are a few of the ideas and products I'm shaping.
 
-### [EcoGrade.ai](https://ecograde.ai)
-**Founder leadership · Climate tech · AI · Property**
+<a href="projects/axiva.md"><img src="assets/axiva-cover.svg" alt="Axiva — AI product and customer experience case study" width="49%"></a>
+<a href="projects/varenne-blue.md"><img src="assets/varenne-cover.svg" alt="Varenne Residences — editorial UX and brand direction case study" width="49%"></a>
 
-Working to make home energy understanding and retrofit decisions more accessible through technology.
+| **[Axiva — AI product & experience →](projects/axiva.md)** | **[Varenne — Blue identity & UI/UX →](projects/varenne-blue.md)** |
+|:---|:---|
+| A consumer-facing exploration of AI-assisted analysis, clear guidance, privacy and product journeys. **[Live experience ↗](https://www.axiva.co.uk/)** | Designing an editorial approach to private residences: visual storytelling, collection discovery, search, trust and conversion. **[Explore in Figma ↗](https://www.figma.com/design/bwZg9dIJOWcW8hhOogkRfS/Varenne-T2-V1-%E2%80%94-Private-View---Website-Art-Direction?node-id=0-1)** |
 
-**My lens:** proposition, product strategy, commercial development and bringing an early-stage venture to market.
+### Also building
 
-</td>
-<td width="50%" valign="top">
+**[EcoGrade.ai ↗](https://ecograde.ai)** — As CEO, shaping an early-stage AI and property energy-efficiency venture across product, commercial development and go-to-market.
 
-### [Varenne Residences](projects/varenne-blue.md)
-**Creative direction · Brand exploration · UI/UX**
+**The Somewhere** — An early-stage exploration in conversation-led communities and digital membership. *Work in progress.*
 
-Designing an editorial, high-trust digital experience for a premium private-residences proposition — from identity exploration to collection discovery, property storytelling and customer journeys.
-
-**My lens:** audience, art direction, interface design and conversion experience.
-
-[Explore the blue-identity design case study →](projects/varenne-blue.md)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Axiva](projects/axiva.md)
-**AI · Consumer product concept · Experimentation**
-
-Exploring intelligent, personalised digital experiences through a consumer-facing product concept.
-
-**My lens:** concept development, product thinking and experimenting with applied AI.
-
-[Read the product and UX case study →](projects/axiva.md) · [Visit the live site ↗](https://www.axiva.co.uk/)
-
-</td>
-<td width="50%" valign="top">
-
-### The Somewhere
-**Community · Digital product · In development**
-
-An early exploration of a conversation-led community experience.
-
-**Status:** work in progress, not a launched or fully functional product.
-
-*More to share as the experience develops.*
-
-</td>
-</tr>
-</table>
+---
 
 ## How I work
 
