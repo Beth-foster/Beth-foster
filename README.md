@@ -2,7 +2,7 @@
 
 # Beth Foster
 
-### Founder · Chief of Staff · Creative & Product Strategist
+### Founder · Consultant & Chief of Staff · Creative & Product Strategist
 
 **Building businesses, products and experiences at the intersection of strategy, design and emerging technology.**
 
@@ -16,7 +16,7 @@
 
 I work between the big picture and the detail: spotting opportunities, shaping a proposition, thinking through the customer experience, and helping turn ambitious ideas into something tangible.
 
-I'm **CEO of EcoGrade.ai**, an early-stage business exploring the role of AI in property energy efficiency and retrofit. I also work as a **Chief of Staff across property, hospitality, premium residences and SaaS**, connecting strategy with the people, systems and execution needed to make it happen.
+I'm **CEO of EcoGrade.ai**, an early-stage business exploring the role of AI in property energy efficiency and retrofit. As a **consultant and Chief of Staff**, I work across industries — including **SaaS, AI, FMCG, beauty, energy, property, marketing and agency businesses** — connecting strategy with the people, systems, creative thinking and execution needed to make it happen.
 
 Outside my core roles, I explore **product design, creative direction and applied AI**. I'm as interested in *how something feels and works* as I am in whether it makes business sense.
 
