@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470" role="img" aria-label="Axiva — applied AI and human-centred product exploration graphic">
+<defs><linearGradient id="g" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#D8DDDC"/><stop offset="1" stop-color="#F5F2EB"/></linearGradient></defs>
+<rect width="900" height="470" rx="8" fill="url(#g)"/><circle cx="693" cy="234" r="194" fill="none" stroke="#688A8D" stroke-width="1.4" opacity=".5"/><ellipse cx="693" cy="234" rx="109" ry="174" fill="none" stroke="#688A8D" stroke-width="1.4"/><path d="M515 234H860M693 42V425" stroke="#688A8D" stroke-opacity=".45"/><circle cx="693" cy="234" r="8" fill="#467073"/>
+<text x="48" y="64" fill="#497074" font-size="15" font-family="Arial,sans-serif" letter-spacing="3">01 / PRODUCT EXPLORATION</text>
+<text x="43" y="227" fill="#223C40" font-size="86" font-family="Georgia,serif">Axiva</text>
+<text x="48" y="275" fill="#395D61" font-size="19" font-family="Arial,sans-serif">Making complex analysis</text>
+<text x="48" y="304" fill="#395D61" font-size="19" font-family="Arial,sans-serif">feel human and actionable.</text>
+<path d="M48 385H397" stroke="#497074" opacity=".6"/><text x="48" y="417" fill="#497074" font-size="13" font-family="Arial,sans-serif" letter-spacing="2">AI  /  CONSUMER EXPERIENCE  /  UX</text>
+</svg>
