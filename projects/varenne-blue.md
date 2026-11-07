@@ -41,7 +41,7 @@ The brand leads with architectural photography, tactile material references and 
 
 A second set of neutral explorations — chalk, oat, cool stone and pewter — supports both warmer, personal touchpoints and cooler architectural contexts. The guiding rule is **lead with light neutrals, anchor with ink, and use vivid blue intentionally**.
 
-The case-study visuals below use **actual screens from the working Figma design**, rather than a reconstructed brand moodboard.
+The case-study visuals below use **actual screens from the working Figma design**, rather than a reconstructed brand moodboard. The original brand deck's name-and-identity composition remains the visual reference for this direction.
 
 ### Typography and brand voice
 
