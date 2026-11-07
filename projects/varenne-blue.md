@@ -11,6 +11,32 @@
 
 ---
 
+## Selected screens from the blue-identity exploration
+
+The following are direct captures from the working Figma file, showing distinct moments in the evolving design. They are **concept screens**, not screenshots of a launched site.
+
+### 01 — Editorial arrival
+
+![Varenne blue-identity editorial home page, captured from Figma](../assets/varenne-figma-home.png)
+
+The opening uses visual atmosphere and restrained language before utility. The composition is deliberately closer to an editorial feature than a conventional accommodation search page.
+
+### 02 — Collections and purposeful discovery
+
+![Varenne collections experience, captured from Figma](../assets/varenne-figma-collections.png)
+
+The discovery journey introduces property navigation and search in a dedicated context, supporting users who move from inspiration to making a more considered choice.
+
+### 03 — The individual residence
+
+![Varenne property portrait, captured from Figma](../assets/varenne-figma-property.png)
+
+Individual residences become their own stories, allowing architecture, imagery, practical details and the next step in the journey to sit together.
+
+**[View the editable design exploration in Figma ↗](https://www.figma.com/design/bwZg9dIJOWcW8hhOogkRfS/Varenne-T2-V1-%E2%80%94-Private-View---Website-Art-Direction?node-id=0-1)**
+
+---
+
 ## The challenge
 
 How do you present a premium private-residence offering without making it look like another accommodation marketplace?
