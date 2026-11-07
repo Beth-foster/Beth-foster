@@ -13,7 +13,7 @@
 
 ## The brief
 
-The challenge was bigger than designing a beautiful accommodation website. **How could a private-residence brand communicate taste, privacy, architecture and thoughtful personal service without looking like another property marketplace?**
+The challenge was bigger than designing a beautiful accommodation website. **How could a private-residence brand communicate taste, privacy, architecture and thoughtful personal service without looking like another premium property marketplace?**
 
 I explored a brand and product direction in which individual homes have character, discovery feels curated, and concierge is understood as part of the experience. The resulting blue concept connects **brand positioning, visual identity, content direction and the practical customer journey**.
 
