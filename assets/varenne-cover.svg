@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470" role="img" aria-label="Varenne Residences — blue identity design case study graphic">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1F3F5B"/><stop offset="1" stop-color="#7297A5"/></linearGradient></defs>
+<rect width="900" height="470" rx="8" fill="url(#g)"/><rect x="576" y="57" width="265" height="355" fill="#E8E6DC" opacity=".88"/><rect x="604" y="84" width="209" height="298" fill="#9FB8BE"/><path d="M604 316L813 137M604 267L813 90" stroke="#E8E6DC" stroke-width="15" opacity=".8"/><path d="M604 382V84H813" fill="none" stroke="#25435B" stroke-opacity=".45"/>
+<text x="47" y="65" fill="#E8D6BB" font-size="15" font-family="Arial,sans-serif" letter-spacing="3">02 / DIGITAL DESIGN</text>
+<text x="42" y="204" fill="#F9F6EF" font-size="68" font-family="Georgia,serif">Varenne</text>
+<text x="47" y="249" fill="#F9F6EF" font-size="27" font-family="Georgia,serif">Residences</text>
+<text x="47" y="307" fill="#E4EEF0" font-size="19" font-family="Arial,sans-serif">A collection, not a catalogue.</text>
+<path d="M47 385H485" stroke="#E8D6BB" opacity=".7"/><text x="47" y="417" fill="#E8D6BB" font-size="13" font-family="Arial,sans-serif" letter-spacing="2">ART DIRECTION  /  BRAND  /  UI/UX</text>
+</svg>
