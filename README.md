@@ -36,28 +36,28 @@ Working to make home energy understanding and retrofit decisions more accessible
 </td>
 <td width="50%" valign="top">
 
-### Varenne Residences
+### [Varenne Residences](projects/varenne-blue.md)
 **Creative direction · Brand exploration · UI/UX**
 
 Designing an editorial, high-trust digital experience for a premium private-residences proposition — from identity exploration to collection discovery, property storytelling and customer journeys.
 
 **My lens:** audience, art direction, interface design and conversion experience.
 
-*Selected visual case study in preparation. Design work is not yet published here.*
+[Explore the blue-identity design case study →](projects/varenne-blue.md)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Axiva
+### [Axiva](projects/axiva.md)
 **AI · Consumer product concept · Experimentation**
 
 Exploring intelligent, personalised digital experiences through a consumer-facing product concept.
 
 **My lens:** concept development, product thinking and experimenting with applied AI.
 
-*Project repository is private; a curated public case study is planned.*
+[Read the product and UX case study →](projects/axiva.md) · [Visit the live site ↗](https://www.axiva.co.uk/)
 
 </td>
 <td width="50%" valign="top">
