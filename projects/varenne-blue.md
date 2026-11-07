@@ -59,11 +59,11 @@ Photography centres on architectural distinction, art, objects and lived-in deta
 
 The concept is not limited to booking pages. An editorial direction around **art, architecture, people and places** gives the brand room for a journal, collector-at-home stories, neighbourhood perspectives and cultural features.
 
-This matters because the brand needs to feel like a considered introduction to a place — not simply a selection of addresses. The PDF explores this through editorial headlines such as *“The Art of Living”* and *“Through Local Eyes”*.
+This matters because the brand needs to feel like a considered introduction to a place — not simply a selection of addresses.
 
 Personal concierge is expressed through a simple service principle: **understand the guest, know the home, arrange the details, and introduce experiences that genuinely fit**.
 
-## 04 / Translating the brand into a website
+## 04 / Translating the brand into a website and art direction
 
 The next step was to turn those principles into a coherent digital journey. The working blue-identity Figma file explores the balance between an immersive editorial first impression and the practical tools guests need to make a decision.
 
