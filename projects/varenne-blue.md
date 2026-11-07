@@ -27,11 +27,11 @@ The opening uses visual atmosphere and restrained language before utility. The c
 
 The discovery journey introduces property navigation and search in a dedicated context, supporting users who move from inspiration to making a more considered choice.
 
-### 03 — The individual residence
+### 03 — The residence and booking experience
 
-![Varenne property portrait, captured from Figma](../assets/varenne-figma-property.png)
+![Varenne Atelier residence page in the blue identity, showing the property story, experience details and booking journey, captured from Figma](../assets/varenne-figma-atelier-booking.png)
 
-Individual residences become their own stories, allowing architecture, imagery, practical details and the next step in the journey to sit together.
+The Atelier property page brings together editorial storytelling, considered imagery and a clear blue-accented booking experience. The design connects discovering a residence with checking availability, understanding the stay and choosing between direct booking and personal assistance.
 
 **[View the editable design exploration in Figma ↗](https://www.figma.com/design/bwZg9dIJOWcW8hhOogkRfS/Varenne-T2-V1-%E2%80%94-Private-View---Website-Art-Direction?node-id=0-1)**
 
