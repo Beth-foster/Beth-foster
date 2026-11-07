@@ -1,4 +1,7 @@
 # Varenne Residences — Blue identity
+
+![Varenne Residences — blue identity editorial exploration](../assets/varenne-cover.svg)
+
 ### Designing a private-residence experience around taste, trust and discovery
 
 **Discipline:** Art direction · Brand exploration · UI/UX · Digital commerce  
