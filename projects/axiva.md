@@ -1,4 +1,7 @@
 # Axiva
+
+![Axiva — product exploration](../assets/axiva-cover.svg)
+
 ### Turning complex facial analysis into a clear, usable personal roadmap
 
 **Discipline:** Product concept · Consumer UX · Applied AI · Information design  
