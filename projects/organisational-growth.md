@@ -12,6 +12,14 @@
 
 ---
 
+## Jump to a section
+
+[The challenge](#section-01) · [Stabilise the existing business before scaling](#section-02) · [Design the future organisation and hiring plan](#section-03) · [Employer brand and the employee experience](#section-04) · [Learning, development and leadership capacity](#section-05) · [Protect culture while introducing more structure](#section-06) · [Keep the programme commercially grounded](#section-07) · [How the pieces fit together](#section-08) · [What this project demonstrates](#section-09)
+
+---
+
+<a id="section-01"></a>
+
 ## The challenge
 
 Growing from 80 to 220 people in a year isn't simply a recruitment exercise. It changes how an organisation operates: who makes decisions, how managers lead, how people join and develop, how teams collaborate across locations, and how a culture survives significant change.
@@ -19,6 +27,8 @@ Growing from 80 to 220 people in a year isn't simply a recruitment exercise. It 
 The challenge was to **create a workforce able to support the business's next phase of growth**, without allowing headcount growth to outpace leadership capability, organisational clarity or financial discipline.
 
 I approached it as an organisation-wide development programme, connecting structure, people and commercial priorities rather than building disconnected HR initiatives.
+
+<a id="section-02"></a>
 
 ## 01 / Stabilise the existing business before scaling
 
@@ -76,6 +86,8 @@ By the end of this phase, the organisation had moved beyond its earlier flat, in
 **The shift:** *from 80 people working within an informal, flat structure → to an organisation with clearer departments, role accountability, performance expectations and supporting people infrastructure.*
 
 Only after establishing those foundations could I move confidently into the next stage: **designing the future organisation and workforce plan for the growth ambition.**
+
+<a id="section-03"></a>
 
 ## 02 / Design the future organisation and hiring plan
 
@@ -141,6 +153,8 @@ Keeping costs controlled meant considering internal progression and flexible sup
 
 **The result of this stage:** a department-by-department future structure brought together into a coherent organisation model, with the groundwork for a hiring plan linked to priorities, location, progression, capacity and affordability — rather than a disconnected vacancy list.
 
+<a id="section-04"></a>
+
 ## 03 / Employer brand and the employee experience
 
 For a business expanding quickly, recruitment isn't just about attracting applicants. It's about explaining **why someone would want to join and build a career there** — and making sure the experience after they join matches that promise.
@@ -148,6 +162,8 @@ For a business expanding quickly, recruitment isn't just about attracting applic
 I worked on the foundations of the employer proposition: how the organisation presents itself, the expectations it sets, the behaviours it rewards and the experience it wants new colleagues to have.
 
 This had to connect with onboarding, manager readiness, internal communication and the culture being created. An employer brand that isn't reflected inside the organisation doesn't support long-term growth.
+
+<a id="section-05"></a>
 
 ## 04 / Learning, development and leadership capacity
 
@@ -163,6 +179,8 @@ The work included designing learning and development around changing organisatio
 
 The aim was to make growth **sustainable for existing colleagues and new hires alike**.
 
+<a id="section-06"></a>
+
 ## 05 / Protect culture while introducing more structure
 
 One of the biggest risks in scaling is losing the qualities that made the earlier organisation work.
@@ -172,6 +190,8 @@ I thought about culture as something shaped through everyday systems — the peo
 The programme therefore included the **benefits and people-support approach**, alongside manager expectations, internal communication, employee experience and consistent people practices.
 
 The goal wasn't to preserve every informal habit from an 80-person organisation. It was to **keep the strengths worth protecting while creating the foundations a 220-person organisation would need**.
+
+<a id="section-07"></a>
 
 ## 06 / Keep the programme commercially grounded
 
@@ -189,6 +209,8 @@ Financial control was part of the people strategy from the outset:
 
 The intention was not simply to keep hiring costs low; it was to **make sure hiring investment translated into the capabilities the business genuinely needed**.
 
+<a id="section-08"></a>
+
 ## How the pieces fit together
 
 | Business question | Programme response |
@@ -199,6 +221,8 @@ The intention was not simply to keep hiring costs low; it was to **make sure hir
 | Who will support the expanding workforce? | Leadership expectations and L&D programme |
 | How do we retain clarity across geographies? | Reporting, ownership, consistent frameworks and collaboration |
 | How do we keep growth financially responsible? | Workforce budgets, recruitment-cost monitoring and staged decisions |
+
+<a id="section-09"></a>
 
 ## What this project demonstrates
 
