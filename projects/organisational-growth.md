@@ -20,15 +20,48 @@ The challenge was to **create a workforce able to support the business's next ph
 
 I approached it as an organisation-wide development programme, connecting structure, people and commercial priorities rather than building disconnected HR initiatives.
 
-## 01 / Start with the business, not the organisation chart
+## 01 / Put the foundations in place before scaling
 
-Before defining the future structure, the important question was **what the business would need to be capable of at its next stage**.
+**The starting point wasn't a small version of the future organisation. It was an 80-person business still operating with a largely flat structure.** Reporting lines were unclear, job descriptions weren't formally defined and there was little consistent process or performance management.
 
-I worked from the growth ambition back to the requirements of each function: its purpose, future workload, leadership needs, dependencies on other teams and where decisions should sit.
+Before making plans to add another 140 people, I needed to address the organisation that already existed. Hiring into an unclear structure would only make accountability, development and management harder.
 
-This created a foundation for assessing which roles were essential, where management layers were required, what could be developed internally and what capabilities would need to be hired.
+### The approach — from ambiguity to an operating framework
 
-**The output:** an organisation design approach grounded in the operating needs of the business — not simply a larger version of the existing team.
+```mermaid
+flowchart TD
+    A["80-person flat structure<br/>Unclear reporting, roles and processes"]
+    B["1. Understand the current team<br/>Map people, work, responsibilities and gaps"]
+    C["2. Establish departments<br/>Group functions and define their ownership"]
+    D["3. Build reporting lines<br/>Clarify leadership, managers and accountability"]
+    E["4. Define roles and progression<br/>Job descriptions, expectations and career paths"]
+    F["5. Set performance foundations<br/>KRAs, KPIs and the tasks behind successful delivery"]
+    G["6. Digitise the framework<br/>Use AWS and Claude to organise roles and performance information"]
+    H["A structured existing workforce<br/>Ready to support the next stage of growth"]
+    A --> B --> C --> D --> E --> F --> G --> H
+```
+
+### How I worked through it
+
+**1 — Understand what was actually happening.** I started with the existing team and the work being done, rather than jumping straight into an idealised future organisation chart. The first priority was making responsibilities, informal dependencies, overlaps and areas without clear ownership visible.
+
+**2 — Introduce functional departments.** I moved the business away from a flat structure into recognisable departments, with clearer boundaries around what each function was responsible for and how it contributed to the wider business.
+
+**3 — Make accountability visible.** I established reporting lines and clearer management responsibility. This gave employees a more understandable structure and created the foundations for leadership, communication, decision-making and support.
+
+**4 — Define roles and career paths.** I developed clearer role definitions and job descriptions, then connected those roles to progression opportunities. The intention wasn't just to tell people what they did today, but to show how they could grow as the organisation expanded.
+
+**5 — Connect roles to performance.** I established the **key result areas (KRAs), key performance indicators (KPIs) and core tasks** associated with successful delivery in each role. This translated job descriptions into a more usable framework for expectations, performance conversations and development.
+
+**6 — Turn the framework into something operational.** I then digitised the role and performance information using **AWS and Claude**, moving it beyond disconnected documents towards a more structured digital approach.
+
+### Why this mattered
+
+This was the essential **stabilisation phase** of the project. Instead of recruiting people into ambiguity, I worked to give the existing 80 employees clearer ownership, management, performance expectations and opportunities to progress.
+
+It also created a more useful starting point for workforce planning: once we could see **who owned what, how success was defined and where capability was missing**, we could make much better decisions about the organisation needed at 220 people.
+
+**The shift:** *from a flat, loosely defined team → to departments, reporting lines, role clarity, measurable expectations and a digitised people framework.*
 
 ## 02 / Design the future organisation
 
