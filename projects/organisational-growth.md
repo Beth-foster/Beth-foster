@@ -77,60 +77,71 @@ By the end of this phase, the organisation had moved beyond its earlier flat, in
 
 Only after establishing those foundations could I move confidently into the next stage: **designing the future organisation and workforce plan for the growth ambition.**
 
-## 02 / Design the future organisation
+## 02 / Design the future organisation and hiring plan
 
-With the existing team stabilised, I could design for the next stage. I worked from what I'd learned about the **business goals, departmental needs, budgets and day-to-day working realities** — not from an idealised organisation chart.
+With the first 80-person organisation stabilised, I used what I now knew about **business goals, departmental workload, budgets and geographic needs** to design the next stage of growth. The future structure and hiring plan had to be developed together: there was no point designing roles the business couldn't afford, recruit or support.
 
-This **wasn't a remote-first business**. Many roles needed in-office support and collaboration, so location and engagement type were as important as seniority and reporting.
+This wasn't a remote-first business. Many roles relied on **in-office collaboration and support**, while others were better suited to hybrid, freelance or shared arrangements.
 
-### My approach — three iterations in Miro
-
-```mermaid
-flowchart LR
-    A["01 / Department maps<br/>Define functions, roles and layers"] --> B["02 / Combined structure<br/>Test reporting, dependencies and costs"]
-    B --> C["03 / Refined future state<br/>Clarify progression, role type and location"]
-```
-
-I mapped **each department separately**, from executive leadership through department heads, managers, specialists and junior team members. I then brought the departments together to test how the organisation would operate as a whole.
-
-Across **three iterations**, I refined reporting lines, management capacity, progression routes and the mix of permanent, flexible and specialist support. Each role was considered against budget, business need and whether it required office-based or hybrid collaboration.
-
-### Example — marketing department
+### From departmental design to a sequenced hiring plan
 
 ```mermaid
 flowchart TD
-    CEO["Executive leadership"] --> HEAD["Head of Marketing<br/>Department ownership"]
+    A["Business goals + budgets<br/>Existing capability and gaps"]
+    B["Miro iteration 1<br/>Map future roles department by department"]
+    C["Miro iteration 2<br/>Combine departments and test reporting lines"]
+    D["Miro iteration 3<br/>Refine layers, progression and engagement types"]
+    E["Workforce requirements<br/>What to develop, hire or source flexibly"]
+    F["Hiring priorities and phases<br/>Sequence roles around business dependencies"]
+    G["Commercial and delivery checks<br/>Cost, location, management and onboarding capacity"]
+    A --> B --> C --> D --> E --> F --> G
+```
+
+**First, I designed each department.** I mapped leadership, managerial, specialist and junior layers in Miro, clarifying ownership, reporting and progression. Bringing the individual functions together exposed dependencies and gaps that weren't obvious in isolation.
+
+**Then I tested three iterations.** I refined management spans, seniority, reporting lines and where people needed to work. Each revision needed to make operational sense while staying within the commercial realities of the business.
+
+**Finally, I translated the structure into workforce requirements.** The output wasn't simply a list of empty boxes: it became the basis for deciding what capability was missing, what could be developed internally, what needed a permanent hire and where flexible support was more sensible.
+
+### Example — marketing
+
+```mermaid
+flowchart TD
+    CEO["Executive leadership"] --> HEAD["Head of Marketing<br/>Department accountability"]
     HEAD --> BRAND["Brand & Content<br/>Functional lead"]
     HEAD --> PERF["Performance Marketing<br/>Functional lead"]
     HEAD --> PROD["Product Marketing / CRM<br/>Functional lead"]
-    BRAND --> BC["Content and creative roles<br/>Core + flexible support"]
-    PERF --> PM["Paid media and digital roles<br/>Core team"]
-    PROD --> UX["CRM and UX support<br/>Core + specialist support"]
+    BRAND --> BC["Content + creative capacity<br/>Core roles / flexible support"]
+    PERF --> PM["Paid media + digital delivery<br/>Core roles"]
+    PROD --> UX["CRM + UX capacity<br/>Core / specialist support"]
 ```
 
-*Illustrative, simplified department view showing the design logic — not a published employee chart or confirmation of individual hires. My working Miro maps also identified role engagement type, location requirements and progression.*
+*Simplified illustrative view of one department. The detailed Miro design also distinguished location, engagement type, reporting and progression; this diagram doesn't represent confirmed hires.*
 
-**What made the design useful:** each department had defined ownership and reporting, visible career paths and a clearer distinction between **full-time, office-based, hybrid and flexible roles**. The combined structure gave leadership a practical basis for deciding **what to hire, when and at what cost**.
+### How I built the hiring logic
 
-The result was a future-state organisational model shaped around how the business needed to work — not simply how many employees it planned to have.
+I considered each proposed role against a consistent set of questions:
 
-## 03 / Build a workforce and hiring plan, not just a vacancy list
+| Decision | What I assessed |
+| --- | --- |
+| **Business need** | Which goal, workload or capability gap would this role address? |
+| **Timing and dependencies** | Was leadership or infrastructure needed before more junior capacity? What could wait? |
+| **Build or hire** | Could an existing colleague grow into the role, or was new expertise required? |
+| **Engagement and location** | Permanent, shared or freelance? Office-based or hybrid? What did collaboration actually require? |
+| **Cost and affordability** | Salary, associated employment costs, recruitment expense and budget impact |
+| **Readiness to support** | Was there a manager, clear role definition, KPIs and onboarding capacity? |
 
-Going from 80 to a planned 220 people meant considering **the sequence and economics of hiring**, not simply the total number of roles.
+This provided the logic for **phased recruitment**: prioritise roles that unlock delivery and leadership capacity, avoid hiring ahead of the need, and keep the plan adjustable as the business evolves.
 
-I connected workforce planning to the organisation design, including hiring priorities, capability gaps, role requirements and the order in which teams would need to grow.
+### Hiring principles and cost discipline
 
-I also developed the principles behind recruitment:
+The design also informed consistent job descriptions and candidate criteria, assessment against the requirements of the role, and a clearer employer proposition. I wanted the organisation to recruit for **the next stage of capability**, not simply replace today's gaps.
 
-- Clearer role definitions and consistent candidate assessment.
-- Hiring for capability, adaptability and the needs of the next stage — not only the needs of today.
-- A consistent candidate experience and more coherent employer proposition.
-- Making better use of internal development and succession opportunities.
-- Maintaining visibility over recruitment spend and the full cost of expanding teams.
+Keeping costs controlled meant considering internal progression and flexible support before defaulting to a permanent hire, while tracking planned workforce spend against department budgets. The aim was **the right capability, at the right time, with a clear reason for the investment**.
 
-**The central question:** who needs to join, when, why, and what must be in place for them to succeed?
+**The result of this stage:** a department-by-department future structure brought together into a coherent organisation model, with the groundwork for a hiring plan linked to priorities, location, progression, capacity and affordability — rather than a disconnected vacancy list.
 
-## 04 / Employer brand and the employee experience
+## 03 / Employer brand and the employee experience
 
 For a business expanding quickly, recruitment isn't just about attracting applicants. It's about explaining **why someone would want to join and build a career there** — and making sure the experience after they join matches that promise.
 
@@ -138,7 +149,7 @@ I worked on the foundations of the employer proposition: how the organisation pr
 
 This had to connect with onboarding, manager readiness, internal communication and the culture being created. An employer brand that isn't reflected inside the organisation doesn't support long-term growth.
 
-## 05 / Learning, development and leadership capacity
+## 04 / Learning, development and leadership capacity
 
 Adding people is only useful if the organisation can support them. I considered the development programme as a core part of the scaling infrastructure, rather than an optional benefit.
 
@@ -152,7 +163,7 @@ The work included designing learning and development around changing organisatio
 
 The aim was to make growth **sustainable for existing colleagues and new hires alike**.
 
-## 06 / Protect culture while introducing more structure
+## 05 / Protect culture while introducing more structure
 
 One of the biggest risks in scaling is losing the qualities that made the earlier organisation work.
 
@@ -162,7 +173,7 @@ The programme therefore included the **benefits and people-support approach**, a
 
 The goal wasn't to preserve every informal habit from an 80-person organisation. It was to **keep the strengths worth protecting while creating the foundations a 220-person organisation would need**.
 
-## 07 / Keep the programme commercially grounded
+## 06 / Keep the programme commercially grounded
 
 Rapid growth creates pressure on recruitment, salary and operating budgets. It can also introduce expensive inefficiencies if roles are hired in the wrong order or without a clear business requirement.
 
