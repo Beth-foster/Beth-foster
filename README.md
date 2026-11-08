@@ -96,9 +96,15 @@ I'm not particularly loyal to software for its own sake. **The right tool depend
 
 **My preferences:** ClickUp or Notion for managing work; Vercel for building and deploying web projects. But I adapt to what makes sense for the business.
 
-### Things I'm OK at — and still learning
+### Things I'm OK at — and getting better at
 
-**Coding:** Basic HTML and JavaScript. I can work with code, make sense of product structure and collaborate with engineers, but I'm not a specialist developer.
+**Community building & positioning:** I enjoy thinking about how communities form, what brings people together and how to give them a clear identity and reason to engage. I'm still developing my practical experience in building and growing communities.
+
+**Sales & business development:** I've worked on commercial opportunities, partnerships and propositions, but I want to sharpen my hands-on sales and new-business development skills. It's an area I'm actively improving.
+
+**Finance & financial forensics:** I'm comfortable with financial planning, budgets and commercial performance. I'm developing more depth in the investigative side — getting into the numbers, tracing what's driving the results and spotting what might have been missed.
+
+**Coding:** I have foundational HTML and JavaScript skills. I can work with code, understand product structure and collaborate with engineers, but I'm not a specialist developer.
 
 **Hands-on technical implementation:** I'm comfortable setting up and navigating project environments and using deployment tools, while recognising when deeper engineering expertise is needed.
 
