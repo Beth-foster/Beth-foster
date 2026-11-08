@@ -35,7 +35,7 @@ I move between founding, advising and building — from commercial strategy to t
 
 [![Organisational development — designing a workforce for growth from 80 to 220](assets/organisation-growth-case-study.svg)](projects/organisational-growth.md)
 
-**[Designing for growth: 80 → 220 people →](projects/organisational-growth.md)** — How I approached an ambitious, cross-geography workforce plan through organisation design, hiring principles, employer brand, leadership development, culture and budget discipline. *A scaling objective, not a claimed final headcount.*
+**[Designing for growth: 80 → 220 people →](projects/organisational-growth.md)** — How I approached an ambitious, cross-geography workforce plan through organisation design, hiring principles, employer brand, leadership development, culture and budget discipline.
 
 ### Also building
 
