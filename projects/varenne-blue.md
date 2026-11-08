@@ -11,6 +11,14 @@
 
 ---
 
+## Jump to a section
+
+[The starting point: more questions than answers](#section-01) · [Two directions, one emerging proposition](#section-02) · [Building the identity — not just choosing colours](#section-03) · [Taking the thinking into Figma](#section-04) · [What the design process was really solving](#section-05) · [What this demonstrates](#section-06)
+
+---
+
+<a id="section-01"></a>
+
 ## The starting point: more questions than answers
 
 This wasn't a conventional brief where a business had an established identity, defined customers and a clear product waiting for a website.
@@ -20,6 +28,8 @@ The private-residences proposition was still taking shape. Following **one coach
 **So the design work needed to do something different: help define the business, not simply express it.**
 
 I took the loose starting points, researched the space, interpreted the potential customer needs and built two genuinely different creative routes. The aim was to give the people behind the project something concrete to react to, challenge and refine.
+
+<a id="section-02"></a>
 
 ## 01 / Two directions, one emerging proposition
 
@@ -43,6 +53,8 @@ This route offered a different emotional reading of the same possible service: m
 
 **Why develop both?** At this stage, picking one polished visual identity would have hidden some of the most important questions. Two contrasting, developed routes gave the team a way to discuss the audience, the desired tone, the level of formality and the kind of business they actually wanted to build.
 
+<a id="section-03"></a>
+
 ## 02 / Building the identity — not just choosing colours
 
 The brand decks made the ideas tangible across **naming and positioning, visual systems, photography, materials, language and service personality**. They were conversation tools as much as design proposals.
@@ -54,6 +66,8 @@ The underlying idea was simple: **a collection, not a catalogue**. Each home sho
 The aubergine direction tested the alternative: the same emerging offer presented with a more intimate, established and discreet visual character.
 
 These were **design hypotheses**, not conclusions drawn from a fully defined business plan. Creating the concepts was a way to move those discussions forward.
+
+<a id="section-04"></a>
 
 ## 03 / Taking the thinking into Figma
 
@@ -81,6 +95,8 @@ The individual residence page connects **property story → imagery → details 
 
 [**Explore the blue Figma design →**](https://www.figma.com/design/bwZg9dIJOWcW8hhOogkRfS/Varenne-T2-V1-%E2%80%94-Private-View---Website-Art-Direction?node-id=0-1)
 
+<a id="section-05"></a>
+
 ## 04 / What the design process was really solving
 
 This wasn't just a visual exercise. The work helped put structure around decisions that hadn't yet been made:
@@ -92,6 +108,8 @@ This wasn't just a visual exercise. The work helped put structure around decisio
 - **What needs deciding before launch?** Use the prototypes to surface questions about inventory, availability, booking, service responsibilities and the operating model.
 
 The value of the work was **making an ambiguous vision discussable and testable**. Instead of waiting for a perfect brief, I built enough of the possible futures for the team to make more informed choices.
+
+<a id="section-06"></a>
 
 ## What this demonstrates
 
