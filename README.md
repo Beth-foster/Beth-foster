@@ -49,6 +49,8 @@ I move between founding, advising and building — from commercial strategy to t
 
 **Stay curious.** Explore AI and emerging tools as practical ways to create and test new possibilities.
 
+**[Working with me →](projects/working-with-me.md)** — A more personal look at how I think, collaborate and make decisions, informed by my DISC & Motivators assessment.
+
 ## How I work — tools, systems & technical capability
 
 I'm comfortable moving from strategy and early ideas into the practical work: setting up the infrastructure, designing the experience, introducing better workflows and getting something usable into people's hands.
