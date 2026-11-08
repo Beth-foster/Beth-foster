@@ -1,126 +1,110 @@
-# Varenne Residences — From brand concept to digital experience
+# Varenne Residences — Creating a brand from an open brief
 
-![Varenne Residences — blue identity editorial exploration](../assets/varenne-cover.svg)
+![Varenne blue-identity homepage concept](../assets/varenne-figma-home.png)
 
-### Building a distinctive world for private residences — from naming and creative direction to an editorial, booking-ready experience
+### Turning one exploratory conversation into two brand directions, then making the ideas tangible through product design
 
-**Discipline:** Brand strategy & naming · Creative direction · Visual identity · UI/UX · Digital commerce  
-**Status:** Concept development, brand exploration and working Figma prototypes
+**My work:** Brand strategy & naming · Creative direction · Two identity concepts · Brand decks · UX & product thinking · Figma prototypes  
+**Stage:** Early concept exploration — before a defined proposition or launch plan
 
 [← Back to portfolio](../README.md)
 
 ---
 
-## The brief
+## The starting point: more questions than answers
 
-The challenge was bigger than designing a beautiful accommodation website. **How could a private-residence brand communicate taste, privacy, architecture and thoughtful personal service without looking like another premium property marketplace?**
+This wasn't a conventional brief where a business had an established identity, defined customers and a clear product waiting for a website.
 
-I explored a brand and product direction in which individual homes have character, discovery feels curated, and concierge is understood as part of the experience. The resulting blue concept connects **brand positioning, visual identity, content direction and the practical customer journey**.
+The private-residences proposition was still taking shape. Following **one coached discovery conversation and a handful of early ideas**, there were substantial unanswered questions about the audience, positioning, service offer and what the brand should feel like. The project lead couldn't yet give definitive answers — because the vision itself hadn't been fully developed.
 
-## 01 / Positioning and the name
+**So the design work needed to do something different: help define the business, not simply express it.**
 
-**The underlying idea: space, privacy and a collector's eye.**
+I took the loose starting points, researched the space, interpreted the potential customer needs and built two genuinely different creative routes. The aim was to give the people behind the project something concrete to react to, challenge and refine.
 
-The name *Varenne* references an old French term associated with grazing land and historically with royal hunting reserves. The creative concept takes inspiration from a sense of space and privacy.
+## 01 / Two directions, one emerging proposition
 
-The brand proposition is straightforward: distinctive private homes, an informed introduction, and personal care around the stay. I wanted a world with cultural substance and discretion, rather than overt status signalling.
+I developed **two separate brand concepts and presentation decks**, each with its own visual personality, language, typography, palette and approach to private residences and personal service.
 
-> **“An exceptional home. An informed introduction. The arrangements taken care of.”**
+### Direction A — Blue / editorial and contemporary
 
-## 02 / A blue identity with editorial restraint
+![Actual blue Varenne art-direction board from Figma: principles, palette and experience rhythm](../assets/varenne-blue-brand-foundation-figma.png)
 
-The brand leads with architectural photography, tactile material references and editorial type. The palette is a supporting system. The five core colours are:
+**The thought:** Architectural, cultured and confident — a gallery-like approach with generous space, editorial storytelling, tactile neutrals and a deliberately vivid blue accent.
 
-| Colour | Hex | Role in the identity |
-| --- | --- | --- |
-| Vivid blue | `#3349C7` | A deliberate contemporary accent and focal point |
-| Deep ink | `#1C2B4A` | A composed anchor for key typography and contrasts |
-| Porcelain | `#F2EFE9` | A warm, generous base for editorial compositions |
-| Mushroom | `#B6ADA1` | Tactile warmth and understated tonal variation |
-| Graphite | `#303235` | Neutral structure and legibility |
+This route asks whether the brand could appeal through **taste and discovery rather than conventional signals of exclusivity**. Homes have individual identities; imagery, materials and atmosphere lead; concierge feels personal rather than ceremonial.
 
-A second set of neutral explorations — chalk, oat, cool stone and pewter — supports both warmer, personal touchpoints and cooler architectural contexts. The guiding rule is **lead with light neutrals, anchor with ink, and use vivid blue intentionally**.
+### Direction B — Aubergine / heritage mood with contemporary accents
 
-The case-study visuals below use **actual screens from the working Figma design**, rather than a reconstructed brand moodboard. The original brand deck's name-and-identity composition remains the visual reference for this direction.
+![Actual aubergine Varenne brand foundations from Figma: alternate typography, tone and palette](../assets/varenne-aubergine-brand-foundation-figma.png)
 
-### Typography and brand voice
+**The thought:** Warmer, more intimate and established in character, using aubergine, oxblood, chalk and butter yellow, expressive typography and an understated membership sensibility.
 
-The identity exploration specifies **Cormorant Garamond Semibold** for expressive headlines, **Cormorant Garamond Italic** for annotations and **Manrope Regular** for body copy. The pairing sets an editorial mood without sacrificing clarity in practical information.
+This route offered a different emotional reading of the same possible service: more private-club than gallery, but still centred on distinct homes and considered care.
 
-The verbal direction is equally considered: confident and informed, but personal rather than performative. Phrases such as *“Private by design”*, *“Make yourself at home”* and *“Your time. Taken care of.”* express the balance of discretion and care.
+**Why develop both?** At this stage, picking one polished visual identity would have hidden some of the most important questions. Two contrasting, developed routes gave the team a way to discuss the audience, the desired tone, the level of formality and the kind of business they actually wanted to build.
 
-### Materials, photography and atmosphere
+## 02 / Building the identity — not just choosing colours
 
-The visual language draws from **uncoated paper, linen, honed stone and brushed metal**. The concept uses one main material texture per composition so tactile interest never becomes visual noise.
+The brand decks made the ideas tangible across **naming and positioning, visual systems, photography, materials, language and service personality**. They were conversation tools as much as design proposals.
 
-Photography centres on architectural distinction, art, objects and lived-in details. It should show both **the entire home and its intimate moments**, creating a point of view beyond a standard property gallery.
+In the blue direction, for example, I explored the name *Varenne* through associations with space and privacy. The creative work paired architectural photography, tactile materials such as linen and stone, editorial typography and a restrained palette with the vivid blue used as an accent.
 
-## 03 / Extending the identity into an editorial world
+The underlying idea was simple: **a collection, not a catalogue**. Each home should have a point of view, and the brand should feel like an informed introduction rather than a generic listing platform.
 
-The concept is not limited to booking pages. An editorial direction around **art, architecture, people and places** gives the brand room for a journal, collector-at-home stories, neighbourhood perspectives and cultural features.
+The aubergine direction tested the alternative: the same emerging offer presented with a more intimate, established and discreet visual character.
 
-This matters because the brand needs to feel like a considered introduction to a place — not simply a selection of addresses.
+These were **design hypotheses**, not conclusions drawn from a fully defined business plan. Creating the concepts was a way to move those discussions forward.
 
-Personal concierge is expressed through a simple service principle: **understand the guest, know the home, arrange the details, and introduce experiences that genuinely fit**.
+## 03 / Taking the thinking into Figma
 
-## 04 / Translating the brand into a website and art direction
+I didn't stop at brand decks. I began building both creative directions into website concepts to test how the personality would behave when a guest actually needed to browse, evaluate and enquire about a home.
 
-The next step was to turn those principles into a coherent digital journey. The working blue-identity Figma file explores the balance between an immersive editorial first impression and the practical tools guests need to make a decision.
+The screens below focus on the **blue route**. They are working design concepts, not a launched booking service.
 
-### Selected screens from the working Figma exploration
+### A / Arrive — establish character before utility
 
-These are captures of **concept screens**, not a launched website.
+![Blue Varenne editorial homepage concept from Figma](../assets/varenne-figma-home.png)
 
-#### A — Editorial arrival
+The homepage leads with space, photography and story rather than forcing a search immediately. It gives the brand a recognisable personality while inviting people into the collection.
 
-![Varenne blue-identity editorial homepage captured from Figma](../assets/varenne-figma-home.png)
+### B / Discover — make the collection useful
 
-A visual-first arrival gives architecture, space and brand personality precedence over search. The first interaction invites exploration, rather than immediately requesting dates and a destination.
+![Blue Varenne Collections browsing and search concept from Figma](../assets/varenne-figma-collections.png)
 
-#### B — Collections and purposeful discovery
+The Collections hub is where the experience becomes more functional: destinations, dates, capacity, map-led discovery and curated homes. **The shift from inspiration to utility happens intentionally.**
 
-![Varenne blue-identity collections experience captured from Figma](../assets/varenne-figma-collections.png)
+### C / Decide — bring story, service and booking together
 
-The Collections experience introduces more purposeful tools: curated property browsing, navigation, map-led exploration and practical filters. The functional interface arrives at the point where the visitor is ready for it.
+![Blue Varenne Atelier residence and booking page concept from Figma](../assets/varenne-figma-atelier-booking.png)
 
-#### C — The residence and booking experience
+The individual residence page connects **property story → imagery → details and availability → booking or human assistance**. It was important that the editorial ambition didn't make the transaction hard to understand, particularly for guests or representatives organising stays.
 
-![Varenne Atelier property page in the blue identity captured from Figma](../assets/varenne-figma-atelier-booking.png)
+[**Explore the blue Figma design →**](https://www.figma.com/design/bwZg9dIJOWcW8hhOogkRfS/Varenne-T2-V1-%E2%80%94-Private-View---Website-Art-Direction?node-id=0-1)
 
-The Atelier page connects the identity with the conversion journey: editorial property storytelling, imagery and details, availability, booking and the option to speak with the team. Its intended hierarchy is **story → images → practical details and booking → lifestyle and service**.
+## 04 / What the design process was really solving
 
-**[Explore the working blue-identity Figma file ↗](https://www.figma.com/design/bwZg9dIJOWcW8hhOogkRfS/Varenne-T2-V1-%E2%80%94-Private-View---Website-Art-Direction?node-id=0-1)**
+This wasn't just a visual exercise. The work helped put structure around decisions that hadn't yet been made:
 
-## 05 / The design decisions behind the work
+- **Who are we speaking to?** Explore how different visual approaches might resonate with private guests, younger affluent travellers and people arranging stays on someone else's behalf.
+- **What are we selling beyond a property?** Bring curation, discretion, knowledgeable service and concierge into the proposition.
+- **How should it feel?** Contrast two coherent identities to make abstract preferences easier to discuss.
+- **How will someone use it?** Map the journey from editorial introduction to search, property confidence and a clear next step.
+- **What needs deciding before launch?** Use the prototypes to surface questions about inventory, availability, booking, service responsibilities and the operating model.
 
-| Decision | Reasoning |
-| --- | --- |
-| Build a distinct identity before interface components | Give the product a coherent point of view and consistent visual rules |
-| Use blue as an accent, not a blanket treatment | Combine contemporary confidence with editorial restraint |
-| Start with atmosphere and individual home stories | Create emotional connection before a transaction |
-| Keep search concentrated in Collections | Let the homepage introduce the world while giving intentional visitors useful tools |
-| Use a map and practical filters for discovery | Support visitors comparing residences by real requirements |
-| Connect the residence story to booking | Make the move from inspiration to decision more natural |
-| Keep human enquiry alongside direct booking | Recognise that not every guest or representative wants the same booking path |
-| Treat concierge as part of the offering | Communicate personal service, knowledge and discretion throughout the journey |
-| Design with texture, negative space and hierarchy | Add depth and character without compromising usability |
+The value of the work was **making an ambiguous vision discussable and testable**. Instead of waiting for a perfect brief, I built enough of the possible futures for the team to make more informed choices.
 
-## 06 / What I brought together
+## What this demonstrates
 
-This case study demonstrates work across several connected disciplines:
+**Strategic interpretation** — finding a starting point when positioning, audience and service definition are still open.
 
-- **Brand and proposition development** — shaping the idea, naming rationale, positioning and emotional cues
-- **Art direction** — building the colour system, typography direction, material palette, imagery and editorial language
-- **Customer experience strategy** — connecting discovery, reassurance, personal service and conversion
-- **Information architecture and UI/UX** — separating brand-led browsing from practical search, property details and booking
-- **Creative iteration** — exploring variations in visual weight, light, texture, navigation and page hierarchy
+**Creative range** — developing two distinct brand worlds from the same limited input rather than producing minor variations of one idea.
 
-**The core idea:** build one coherent brand world, from the first impression to the moment someone chooses a home.
+**Brand-to-product thinking** — carrying the logic from naming, language, materials and identity through to the structure of a digital experience.
+
+**Product and UX design** — balancing storytelling with practical discovery, trust, booking and personal assistance.
+
+**Initiative and delivery** — taking an uncertain conversation and turning it into substantial brand presentations and working prototypes that others could evaluate.
 
 ---
 
-## Explore the work
-
-**[Open the blue website art-direction and UI/UX exploration in Figma →](https://www.figma.com/design/bwZg9dIJOWcW8hhOogkRfS/Varenne-T2-V1-%E2%80%94-Private-View---Website-Art-Direction?node-id=0-1)**
-
-**What this project demonstrates:** brand strategy, creative direction, visual systems, editorial storytelling, product thinking, information architecture, UX and conversion-oriented design.
+[**Back to selected work →**](../README.md)
