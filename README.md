@@ -31,6 +31,12 @@ I move between founding, advising and building — from commercial strategy to t
 |:---|:---|
 | A consumer-facing exploration of AI-assisted analysis, clear guidance, privacy and product journeys. **[Live experience ↗](https://www.axiva.co.uk/)** | Designing an editorial approach to private residences: visual storytelling, collection discovery, search, trust and conversion. **[Explore in Figma ↗](https://www.figma.com/design/bwZg9dIJOWcW8hhOogkRfS/Varenne-T2-V1-%E2%80%94-Private-View---Website-Art-Direction?node-id=0-1)** |
 
+### Organisational development & transformation
+
+[![Organisational development — designing a workforce for growth from 80 to 220](assets/organisation-growth-case-study.svg)](projects/organisational-growth.md)
+
+**[Designing for growth: 80 → 220 people →](projects/organisational-growth.md)** — How I approached an ambitious, cross-geography workforce plan through organisation design, hiring principles, employer brand, leadership development, culture and budget discipline. *A scaling objective, not a claimed final headcount.*
+
 ### Also building
 
 **[EcoGrade.ai ↗](https://ecograde.ai)** — As CEO, shaping an early-stage AI and property energy-efficiency venture across product, commercial development and go-to-market.
