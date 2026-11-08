@@ -20,48 +20,62 @@ The challenge was to **create a workforce able to support the business's next ph
 
 I approached it as an organisation-wide development programme, connecting structure, people and commercial priorities rather than building disconnected HR initiatives.
 
-## 01 / Put the foundations in place before scaling
+## 01 / Stabilise the existing business before scaling
 
-**The starting point wasn't a small version of the future organisation. It was an 80-person business still operating with a largely flat structure.** Reporting lines were unclear, job descriptions weren't formally defined and there was little consistent process or performance management.
+**Duration: 2.5 months | Starting workforce: approximately 80 people**
 
-Before making plans to add another 140 people, I needed to address the organisation that already existed. Hiring into an unclear structure would only make accountability, development and management harder.
+**The starting point wasn't a small version of the future organisation. It was an 80-person business still operating with a largely flat structure.** There were no consistently defined reporting lines or job descriptions, and processes and performance management were largely informal.
 
-### The approach — from ambiguity to an operating framework
+Before planning to add another 140 people, I needed to make the existing organisation work properly. Otherwise, growth would compound unclear accountability, inconsistent management and gaps in employee support.
+
+### The approach — from a flat team to a functioning people system
 
 ```mermaid
 flowchart TD
-    A["80-person flat structure<br/>Unclear reporting, roles and processes"]
-    B["1. Understand the current team<br/>Map people, work, responsibilities and gaps"]
-    C["2. Establish departments<br/>Group functions and define their ownership"]
-    D["3. Build reporting lines<br/>Clarify leadership, managers and accountability"]
-    E["4. Define roles and progression<br/>Job descriptions, expectations and career paths"]
-    F["5. Set performance foundations<br/>KRAs, KPIs and the tasks behind successful delivery"]
-    G["6. Digitise the framework<br/>Use AWS and Claude to organise roles and performance information"]
-    H["A structured existing workforce<br/>Ready to support the next stage of growth"]
-    A --> B --> C --> D --> E --> F --> G --> H
+    A["Starting point: 80 people<br/>Flat structure; unclear roles, reporting and process"]
+    B["01 / Map the existing organisation<br/>People, work, responsibilities and gaps"]
+    C["02 / Establish departments<br/>Functional ownership and reporting lines"]
+    D["03 / Define roles and progression<br/>Job descriptions and career pathways"]
+    E["04 / Establish performance management<br/>KRAs, KPIs and role-specific tasks"]
+    F["05 / Build HR leadership and safeguards<br/>Head of HR, handbook and Wirehouse ER support"]
+    G["06 / Digitise people operations<br/>AWS + Claude framework and HRMS setup"]
+    H["07 / Embed the change<br/>Train teams on new systems and processes"]
+    I["End of 2.5-month stabilisation phase<br/>Clearer structure, accountability and operational foundations"]
+    A --> B --> C --> D --> E --> F --> G --> H --> I
 ```
 
-### How I worked through it
+### How I approached the work
 
-**1 — Understand what was actually happening.** I started with the existing team and the work being done, rather than jumping straight into an idealised future organisation chart. The first priority was making responsibilities, informal dependencies, overlaps and areas without clear ownership visible.
+**1 — Understand the existing team.** I mapped the work already happening across the business, who was doing it, where responsibilities overlapped and where nobody had clear ownership. The aim was to understand the reality before designing a new structure.
 
-**2 — Introduce functional departments.** I moved the business away from a flat structure into recognisable departments, with clearer boundaries around what each function was responsible for and how it contributed to the wider business.
+**2 — Create departments and reporting lines.** I moved the flat structure into defined functions, clarifying departmental responsibilities, management ownership and reporting relationships. This created a foundation for decision-making, support and accountability.
 
-**3 — Make accountability visible.** I established reporting lines and clearer management responsibility. This gave employees a more understandable structure and created the foundations for leadership, communication, decision-making and support.
+**3 — Define roles and progression.** I developed job descriptions, role expectations and clearer paths for growth. Employees needed to understand both what was expected of them and how they could develop as the organisation expanded.
 
-**4 — Define roles and career paths.** I developed clearer role definitions and job descriptions, then connected those roles to progression opportunities. The intention wasn't just to tell people what they did today, but to show how they could grow as the organisation expanded.
+**4 — Make performance measurable.** I established the **key result areas (KRAs), key performance indicators (KPIs) and tasks** associated with each role. This linked job definitions to day-to-day delivery, meaningful performance conversations and development.
 
-**5 — Connect roles to performance.** I established the **key result areas (KRAs), key performance indicators (KPIs) and core tasks** associated with successful delivery in each role. This translated job descriptions into a more usable framework for expectations, performance conversations and development.
+**5 — Establish the HR function for the next stage.** I brought in a **Head of HR** to strengthen the function and help build out a proper employee handbook. I also engaged **Wirehouse** as a third-party employee relations advisory resource, giving the business access to specialist support as people matters became more complex.
 
-**6 — Turn the framework into something operational.** I then digitised the role and performance information using **AWS and Claude**, moving it beyond disconnected documents towards a more structured digital approach.
+**6 — Put the systems in place.** I digitised the role and performance framework using **AWS and Claude** and created a functioning **HR management system (HRMS) setup** that could support the larger workforce. The aim was to move away from fragmented, informal information and give the organisation practical infrastructure for people management.
 
-### Why this mattered
+**7 — Embed the new ways of working.** I closed the stabilisation phase by **training the team on the new systems and processes**. The project couldn't finish at documentation or software configuration: managers and employees needed to understand how the new framework worked in practice.
 
-This was the essential **stabilisation phase** of the project. Instead of recruiting people into ambiguity, I worked to give the existing 80 employees clearer ownership, management, performance expectations and opportunities to progress.
+### What the first 2.5 months established
 
-It also created a more useful starting point for workforce planning: once we could see **who owned what, how success was defined and where capability was missing**, we could make much better decisions about the organisation needed at 220 people.
+By the end of this phase, the organisation had moved beyond its earlier flat, informal model towards:
 
-**The shift:** *from a flat, loosely defined team → to departments, reporting lines, role clarity, measurable expectations and a digitised people framework.*
+- Departments with clearer accountability and reporting relationships.
+- Defined roles, expectations and progression routes.
+- KRAs, KPIs and tasks underpinning performance management.
+- A Head of HR, developed handbook foundations and access to external employee relations advice.
+- Digitised role and performance information, plus an HRMS setup for growth.
+- Teams trained to work with the new systems and processes.
+
+**Why it mattered:** this was not simply a reorganisation on paper. I brought together **organisation design, HR capability, governance, performance and technology**, then worked on adoption so the changes could function day to day.
+
+**The shift:** *from 80 people working within an informal, flat structure → to an organisation with clearer departments, role accountability, performance expectations and supporting people infrastructure.*
+
+Only after establishing those foundations could I move confidently into the next stage: **designing the future organisation and workforce plan for the growth ambition.**
 
 ## 02 / Design the future organisation
 
