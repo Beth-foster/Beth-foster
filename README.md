@@ -51,31 +51,58 @@ I move between founding, advising and building — from commercial strategy to t
 
 **[Working with me →](projects/working-with-me.md)** — A more personal look at how I think, collaborate and make decisions, informed by my DISC & Motivators assessment.
 
-## How I work — tools, systems & technical capability
+## What I bring to the table
 
-I'm comfortable moving from strategy and early ideas into the practical work: setting up the infrastructure, designing the experience, introducing better workflows and getting something usable into people's hands.
-
-I don't believe in forcing every client into the same system. **The tools depend on the team, the existing stack and what we're trying to achieve.** My personal preference is usually **ClickUp or Notion** for organising work, and **Vercel** for building and deploying web projects.
-
-| Where I work | Tools I use | How I apply them |
-| --- | --- | --- |
-| **Project delivery & workflow efficiency** | ChatGPT, Claude, Notion, ClickUp, Confluence, Jira, monday.com | Translate priorities into actionable plans, build repeatable workflows, organise teams and improve how work gets done |
-| **Meetings & knowledge capture** | Fireflies | Capture discussions, decisions, minutes and follow-ups, then turn them into accountable actions |
-| **Presentations & content creation** | Gamma, Canva, ChatGPT | Develop narratives, creative concepts, presentations and first-draft documents; refine rather than treat AI output as finished work |
-| **Governance & document control** | Notion, Google Drive, Confluence | Structure policies, documentation, version control, access and shared knowledge according to client needs |
-| **Brand, UI/UX & creative work** | Figma, Adobe Creative Cloud, Canva | Explore visual identity, prototypes, interfaces, user journeys and marketing assets |
-| **AI models, agents & automation** | AI model training, custom agents and AI-assisted workflows | Work with datasets and research, refine analysis approaches, and develop agents for research, backend tasks and repeatable operations |
-| **Platforms & project infrastructure** | Vercel, AWS, GitHub | Set up and coordinate project environments, deployment workflows and supporting infrastructure |
+I'm a generalist by nature, and that's something I see as a strength. I've led businesses and teams, worked closely with founders and CEOs, built products, shaped commercial strategy and helped organisations navigate change. I'm just as happy getting into the detail as I am helping work out the bigger picture.
 
 ### What I'm confident doing
 
-**Strong / hands-on:** Product strategy, user-centred product development, design principles, value propositions, product marketing, AI workflow design, model training and refinement, agent development, project infrastructure planning and cross-functional delivery.
+**Strategy, leadership & commercial**
+- Business and growth strategy, commercial planning, budgets and performance
+- Executive advisory and Chief of Staff work — helping leadership turn priorities into action
+- Negotiation, strategic partnerships, stakeholder relationships and go-to-market planning
+- Building operating models and organisational structures that can actually scale
 
-**Working proficiency:** Figma and creative production tools; project and knowledge-management platforms; working with web deployment environments including Vercel and AWS. I can adapt to an existing client stack or establish a practical system where one is missing.
+**People, operations & transformation**
+- Building and developing teams, leadership structures and people functions
+- Organisational design, workforce planning, performance management and culture
+- Cross-functional programme delivery, change management and operational improvement
+- Governance, policy development, documentation and putting practical controls in place
 
-**Foundational coding:** Basic **JavaScript and HTML**. I understand how digital products fit together and can prototype and collaborate effectively with developers, but I don't present myself as a specialist software engineer.
+**Marketing, product & customer experience**
+- Brand and marketing strategy, digital marketing and product marketing
+- Value propositions, positioning, customer journeys and conversion thinking
+- User-focused product development, UX principles and translating early ideas into useful products
+- Turning complex information into clear stories, propositions and experiences
 
-**My approach:** Choose the right tools, understand the people using them, build for clarity and maintainability, and combine commercial thinking with creative and technical execution.
+**AI, creative thinking & delivery**
+- Research-led AI model development and refinement, agent workflows and practical automation
+- Creative direction, brand concepts, design exploration and prototyping
+- Planning product infrastructure and working alongside technical teams to bring ideas to life
+- Connecting the commercial, creative and operational pieces rather than treating them as separate projects
+
+### The tools I work with
+
+I'm not particularly loyal to software for its own sake. **The right tool depends on the client, the team and the problem.** I can work within an established setup or help introduce something more useful.
+
+| For | Tools and platforms |
+| --- | --- |
+| Projects & workflows | ChatGPT, Claude, Notion, ClickUp, Confluence, Jira, monday.com |
+| Meetings & follow-through | Fireflies for notes, decisions and actions |
+| Presentations & content | Gamma, Canva and AI-assisted drafting |
+| Governance & knowledge | Notion, Google Drive, Confluence |
+| Design & prototypes | Figma, Adobe Creative Cloud, Canva |
+| Technical projects & deployment | GitHub, Vercel, AWS |
+
+**My preferences:** ClickUp or Notion for managing work; Vercel for building and deploying web projects. But I adapt to what makes sense for the business.
+
+### Things I'm OK at — and still learning
+
+**Coding:** Basic HTML and JavaScript. I can work with code, make sense of product structure and collaborate with engineers, but I'm not a specialist developer.
+
+**Hands-on technical implementation:** I'm comfortable setting up and navigating project environments and using deployment tools, while recognising when deeper engineering expertise is needed.
+
+I like learning by building. I'm not trying to be an expert in every discipline — I'm good at bringing the right knowledge and people together, understanding enough to challenge the thinking, and keeping the work moving.
 
 ## Areas I'm exploring
 
