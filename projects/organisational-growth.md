@@ -37,7 +37,7 @@ flowchart TD
     C["02 / Establish departments<br/>Functional ownership and reporting lines"]
     D["03 / Define roles and progression<br/>Job descriptions and career pathways"]
     E["04 / Establish performance management<br/>KRAs, KPIs and role-specific tasks"]
-    F["05 / Build HR leadership and safeguards<br/>Head of HR, handbook and Wirehouse ER support"]
+    F["05 / Build HR and legal foundations<br/>Head of HR, contracts, handbook and Wirehouse support"]
     G["06 / Digitise people operations<br/>AWS + Claude framework and HRMS setup"]
     H["07 / Embed the change<br/>Train teams on new systems and processes"]
     I["End of 2.5-month stabilisation phase<br/>Clearer structure, accountability and operational foundations"]
@@ -54,7 +54,7 @@ flowchart TD
 
 **4 — Make performance measurable.** I established the **key result areas (KRAs), key performance indicators (KPIs) and tasks** associated with each role. This linked job definitions to day-to-day delivery, meaningful performance conversations and development.
 
-**5 — Establish the HR function for the next stage.** I brought in a **Head of HR** to strengthen the function and help build out a proper employee handbook. I also engaged **Wirehouse** as a third-party employee relations advisory resource, giving the business access to specialist support as people matters became more complex.
+**5 — Secure the HR and legal foundations.** I developed employment contracts and the legal foundations needed to better protect the business, brought in a **Head of HR** to help establish a robust employee handbook, and engaged **Wirehouse** for access to external employee relations advice as the workforce grew.
 
 **6 — Put the systems in place.** I digitised the role and performance framework using **AWS and Claude** and created a functioning **HR management system (HRMS) setup** that could support the larger workforce. The aim was to move away from fragmented, informal information and give the organisation practical infrastructure for people management.
 
@@ -67,7 +67,7 @@ By the end of this phase, the organisation had moved beyond its earlier flat, in
 - Departments with clearer accountability and reporting relationships.
 - Defined roles, expectations and progression routes.
 - KRAs, KPIs and tasks underpinning performance management.
-- A Head of HR, developed handbook foundations and access to external employee relations advice.
+- Employment contracts and stronger legal foundations, a Head of HR, handbook development and access to Wirehouse employee relations advice.
 - Digitised role and performance information, plus an HRMS setup for growth.
 - Teams trained to work with the new systems and processes.
 
@@ -79,17 +79,25 @@ Only after establishing those foundations could I move confidently into the next
 
 ## 02 / Design the future organisation
 
-The next piece was building the structure that would support a larger, geographically distributed workforce.
+With the existing team stabilised, I used what I'd learned about the business, its **goals, budgets and operational needs** to design the structure for the next stage of growth.
 
-This included thinking through:
+I started in **Miro**, building each department separately before connecting them into a company-wide model. It took **three iterations** to get the balance right between leadership capacity, cost, accountability and how people would actually work together.
 
-- **Functional design:** what each function owns, where responsibilities overlap and how teams work together.
-- **Reporting and accountability:** clearer management structures, decision rights and leadership responsibilities.
-- **Role architecture:** the distinction between individual contributors, managers, specialist roles and senior leadership.
-- **Geographic operating needs:** consistent expectations and collaboration while allowing for local requirements.
-- **Scaling in stages:** designing for the next organisation rather than expecting the final structure to appear overnight.
+### From business needs to a workable structure
 
-A good structure should make delivery easier. It should also help people understand where they fit and what progression could look like.
+1. **Map each department** against business priorities, budget and capability gaps.
+2. **Build the layers** from executive leadership through departmental leads, managers, specialists and junior roles.
+3. **Define role engagement** — permanent, flexible or specialist support, with office-based collaboration where needed. This was **not a remote-first business**.
+4. **Connect the organisation** with explicit reporting lines, sensible spans of management and visible progression routes.
+5. **Test and refine three times**, then bring the departments together into one coherent structure.
+
+### Example: Marketing department
+
+![Illustrative future-state marketing department showing leadership layers, functional teams and role considerations](../assets/organisation-marketing-example.svg)
+
+*Example of the design logic, rather than a claim about exact approved positions or headcount.* Each function was mapped by ownership, reporting line, seniority, engagement type and practical collaboration needs.
+
+**The outcome:** a future-state organisational model that could guide phased hiring, internal progression and management decisions — with growth plans rooted in the business's actual operating requirements.
 
 ## 03 / Build a workforce and hiring plan, not just a vacancy list
 
