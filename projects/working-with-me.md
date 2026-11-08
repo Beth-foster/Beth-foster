@@ -6,7 +6,7 @@
 
 ![Working with me — assessment-led workstyle analytics](../assets/working-with-me-analytics.svg)
 
-*The data in this graphic comes from my **DISC BASIC™ + Motivators assessment (21 January 2026)**. My reported behavioural style is **Csd / Explorer**; my highest motivator is **Theoretical (83/100)**. I've used the findings as a starting point for this first-person introduction, not as a substitute for getting to know me.*
+*The data in this graphic comes from my **DISC BASIC™ + Motivators assessment (21 January 2026)**. My reported behavioural style is **Csd / Explorer**; my highest motivator is **Theoretical (83/100)**.*
 
 ---
 
