@@ -11,11 +11,21 @@
 
 ---
 
+## Jump to a section
+
+[The opportunity](#section-01) · [Building the intelligence](#section-02) · [Research, training & evaluation](#section-03) · [Designing the customer journey](#section-04) · [The decisions that made the funnel work](#section-05) · [What I built and what it demonstrates](#section-06) · [Explore the product](#section-07)
+
+---
+
+<a id="section-01"></a>
+
 ## The opportunity
 
 I wanted to make detailed, personalised facial analysis more accessible without reducing it to generic AI descriptions or a single beauty score. That meant building **both the intelligence behind the analysis and a journey that made the results understandable, useful and commercially viable**.
 
 Axiva brings together a purpose-built analytical methodology, a guided customer experience and a two-stage reporting model: immediate quick wins, followed by a deeper paid report and dashboard.
+
+<a id="section-02"></a>
 
 ## 01 / Building the intelligence
 
@@ -33,6 +43,8 @@ The framework considers **78+ measurements and factors** across five connected a
 
 **The important design decision was to interpret a person as a whole.** A measurement needs context; a useful finding connects that measurement with other features and turns it into something the individual can understand.
 
+<a id="section-03"></a>
+
 ## 02 / Research, training & evaluation
 
 ![Axiva research, training and iterative evaluation methodology](../assets/axiva-research-to-report.svg)
@@ -48,6 +60,8 @@ This was a significant research and development exercise, not simply prompt engi
 **Testing and iteration.** I compared outputs with examples, refined the methodology and worked to improve consistency and analytical performance.
 
 **Performance achieved in internal development testing: up to 98% accuracy**, as measured within the project's evaluation process.
+
+<a id="section-04"></a>
 
 ## 03 / Designing the customer journey
 
@@ -93,6 +107,8 @@ The deeper experience brings the results into a structured, personal space: deta
 
 **The product logic:** the report needs to be navigable and actionable, not simply long. Grouping the information clearly and bringing it into a dashboard gives the user a place to return to and work through their next steps.
 
+<a id="section-05"></a>
+
 ## 04 / The decisions that made the funnel work
 
 Rather than treating acquisition, analysis and conversion as separate problems, I designed them as one continuous experience.
@@ -104,6 +120,8 @@ Rather than treating acquisition, analysis and conversion as separate problems, 
 - **Information hierarchy:** technical findings are translated into plain language, logical sections and practical next steps.
 - **A dashboard rather than a one-off document:** the fuller product experience is designed as something useful beyond the first analysis.
 - **Trust and clarity throughout:** particularly important when the journey involves personal photographs and highly individual feedback.
+
+<a id="section-06"></a>
 
 ## 05 / What I built and what it demonstrates
 
@@ -120,6 +138,8 @@ Rather than treating acquisition, analysis and conversion as separate problems, 
 **Commercial thinking** — Designing accessibility, value delivery and monetisation together rather than as afterthoughts.
 
 ---
+
+<a id="section-07"></a>
 
 ## Explore the product
 
