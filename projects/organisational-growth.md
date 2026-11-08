@@ -79,25 +79,40 @@ Only after establishing those foundations could I move confidently into the next
 
 ## 02 / Design the future organisation
 
-With the existing team stabilised, I used what I'd learned about the business, its **goals, budgets and operational needs** to design the structure for the next stage of growth.
+With the existing team stabilised, I could design for the next stage. I worked from what I'd learned about the **business goals, departmental needs, budgets and day-to-day working realities** — not from an idealised organisation chart.
 
-I started in **Miro**, building each department separately before connecting them into a company-wide model. It took **three iterations** to get the balance right between leadership capacity, cost, accountability and how people would actually work together.
+This **wasn't a remote-first business**. Many roles needed in-office support and collaboration, so location and engagement type were as important as seniority and reporting.
 
-### From business needs to a workable structure
+### My approach — three iterations in Miro
 
-1. **Map each department** against business priorities, budget and capability gaps.
-2. **Build the layers** from executive leadership through departmental leads, managers, specialists and junior roles.
-3. **Define role engagement** — permanent, flexible or specialist support, with office-based collaboration where needed. This was **not a remote-first business**.
-4. **Connect the organisation** with explicit reporting lines, sensible spans of management and visible progression routes.
-5. **Test and refine three times**, then bring the departments together into one coherent structure.
+```mermaid
+flowchart LR
+    A["01 / Department maps<br/>Define functions, roles and layers"] --> B["02 / Combined structure<br/>Test reporting, dependencies and costs"]
+    B --> C["03 / Refined future state<br/>Clarify progression, role type and location"]
+```
 
-### Example: Marketing department
+I mapped **each department separately**, from executive leadership through department heads, managers, specialists and junior team members. I then brought the departments together to test how the organisation would operate as a whole.
 
-![Illustrative future-state marketing department showing leadership layers, functional teams and role considerations](../assets/organisation-marketing-example.svg)
+Across **three iterations**, I refined reporting lines, management capacity, progression routes and the mix of permanent, flexible and specialist support. Each role was considered against budget, business need and whether it required office-based or hybrid collaboration.
 
-*Example of the design logic, rather than a claim about exact approved positions or headcount.* Each function was mapped by ownership, reporting line, seniority, engagement type and practical collaboration needs.
+### Example — marketing department
 
-**The outcome:** a future-state organisational model that could guide phased hiring, internal progression and management decisions — with growth plans rooted in the business's actual operating requirements.
+```mermaid
+flowchart TD
+    CEO["Executive leadership"] --> HEAD["Head of Marketing<br/>Department ownership"]
+    HEAD --> BRAND["Brand & Content<br/>Functional lead"]
+    HEAD --> PERF["Performance Marketing<br/>Functional lead"]
+    HEAD --> PROD["Product Marketing / CRM<br/>Functional lead"]
+    BRAND --> BC["Content and creative roles<br/>Core + flexible support"]
+    PERF --> PM["Paid media and digital roles<br/>Core team"]
+    PROD --> UX["CRM and UX support<br/>Core + specialist support"]
+```
+
+*Illustrative, simplified department view showing the design logic — not a published employee chart or confirmation of individual hires. My working Miro maps also identified role engagement type, location requirements and progression.*
+
+**What made the design useful:** each department had defined ownership and reporting, visible career paths and a clearer distinction between **full-time, office-based, hybrid and flexible roles**. The combined structure gave leadership a practical basis for deciding **what to hire, when and at what cost**.
+
+The result was a future-state organisational model shaped around how the business needed to work — not simply how many employees it planned to have.
 
 ## 03 / Build a workforce and hiring plan, not just a vacancy list
 
