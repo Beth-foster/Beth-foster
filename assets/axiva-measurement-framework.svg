@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
-<title id="title">Axiva multi-factor analysis framework</title><desc id="desc">Illustrative facial geometry annotated with five analysis groups. Not actual model output or a clinical assessment.</desc>
+<title id="title">Axiva multi-factor analysis framework</title><desc id="desc">Facial-analysis illustration identifying five domains of the Axiva methodology.</desc>
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111C29"/><stop offset="1" stop-color="#243C50"/></linearGradient><linearGradient id="skin" x2="0" y2="1"><stop stop-color="#D9C9B7"/><stop offset="1" stop-color="#B7A999"/></linearGradient></defs>
 <rect width="1200" height="760" rx="24" fill="url(#bg)"/>
 <g font-family="Arial,sans-serif"><text x="64" y="70" fill="#88D7D0" font-size="16" letter-spacing="4">AXIVA / METHODOLOGY</text><text x="64" y="122" fill="white" font-size="37" font-weight="700">78+ interconnected measurements &amp; factors</text><text x="65" y="158" fill="#B7C7D2" font-size="18">A purpose-built framework for contextual, individual facial analysis</text></g>
@@ -10,4 +10,4 @@
 <g font-family="Arial,sans-serif"><g fill="none" stroke="#77F2E2" stroke-width="1.5"><path d="M475 280 L361 256 H310"/><path d="M476 405 L360 392 H306"/><path d="M512 560 L362 584 H306"/><path d="M722 358 L845 279 H902"/><path d="M697 500 L839 515 H902"/></g>
 <g fill="white" font-size="21" font-weight="700"><text x="66" y="238">01 / Structure</text><text x="66" y="374">02 / Symmetry</text><text x="66" y="563">03 / Relationships</text><text x="916" y="258">04 / Skin</text><text x="916" y="496">05 / Colouring</text></g>
 <g fill="#B7C7D2" font-size="16"><text x="66" y="268">Proportions and facial geometry</text><text x="66" y="404">Balance and natural expression</text><text x="66" y="594">Features interpreted together</text><text x="916" y="289">Visible characteristics</text><text x="916" y="525">Tone, contrast and context</text></g></g>
-<rect x="66" y="663" width="1068" height="53" rx="10" fill="#2D4656"/><text x="86" y="696" font-family="Arial,sans-serif" fill="#DDE9EF" font-size="16">Illustrative framework — not a model screenshot, validated landmark map or medical assessment.</text></svg>
+<rect x="66" y="663" width="1068" height="53" rx="10" fill="#2D4656"/><text x="86" y="696" font-family="Arial,sans-serif" fill="#DDE9EF" font-size="16">Five connected analysis domains, interpreted together for each individual.</text></svg>
