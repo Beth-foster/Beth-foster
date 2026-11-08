@@ -4,7 +4,7 @@
 
 **Founder · Consultant & Chief of Staff · Creative & Product Strategist**
 
-Building businesses, products and experiences across strategy, design and emerging technology.
+I bring together strategy, people, design and technology to turn ambitious ideas into things that work.
 
 [Selected work](#selected-work) &nbsp; · &nbsp; [How I work](#how-i-work) &nbsp; · &nbsp; [EcoGrade.ai](https://ecograde.ai)
 
