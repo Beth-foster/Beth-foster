@@ -4,7 +4,7 @@
 
 **Founder · Consultant & Chief of Staff · Creative & Product Strategist**
 
-I bring together strategy, people, design and technology to turn ambitious ideas into things that work.
+I love getting stuck into big ideas, messy problems and the details that make things work — bringing people together, figuring out what needs to change and making things happen.
 
 [Selected work](#selected-work) &nbsp; · &nbsp; [How I work](#how-i-work) &nbsp; · &nbsp; [EcoGrade.ai](https://ecograde.ai)
 
