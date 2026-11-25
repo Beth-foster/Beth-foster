@@ -131,13 +131,14 @@ I continue to develop my experience in community growth, direct sales and financ
 
 ## Engagements
 
-Available for **fractional Chief of Staff engagements** and **defined advisory or implementation projects**, including:
+I'm looking for **part-time, fractional engagements** where I can support a team, take ownership of a defined project or provide additional capacity across:
 
-- Translating leadership priorities into a coordinated delivery plan
-- Reviewing organisational structures, responsibilities and operating processes
-- Diagnosing workflow issues and designing practical AI solutions
-- Developing product propositions, customer journeys and early prototypes
-- Moving stalled initiatives through to implementation
+- **Product management** — shaping propositions, understanding user needs, setting priorities and coordinating delivery.
+- **Product marketing** — positioning, messaging, go-to-market planning and launch support.
+- **Chief of Staff support** — translating leadership priorities into action, coordinating teams and progressing key initiatives.
+- **Project support** — diagnosing issues, defining next steps and helping move work through to completion.
+
+I have **approximately 10 hours per week available to start immediately**. I'm also open to discussing opportunities that require greater involvement, depending on the scope and timing.
 
 Based in **Amersham, Buckinghamshire**, with access to London.
 
