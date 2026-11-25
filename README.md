@@ -14,7 +14,7 @@ Connecting commercial strategy, organisational change and practical AI implement
 
 ## Profile
 
-Founder, consultant and Chief of Staff with experience leading businesses, developing teams and delivering change across SaaS, AI, property, energy, FMCG, beauty and agency environments.
+Founder, consultant and Chief of Staff with experience leading businesses, developing teams and delivering change or GTM across SaaS, AI, property, energy, FMCG, beauty and agency environments.
 
 I work with founders and leadership teams to diagnose business challenges, establish priorities and translate strategy into delivery. My work spans operating models, organisational design, commercial planning, product development and customer experience.
 
