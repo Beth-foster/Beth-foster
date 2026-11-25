@@ -2,9 +2,9 @@
 
 ![Beth Foster — Ideas into experiences](assets/hero.svg)
 
-**Founder · Consultant & Chief of Staff · Creative & Product Strategist**
+**Fractional Chief of Staff · Business Transformation · Applied AI & Product**
 
-I love getting stuck into big ideas, messy problems and the details that make things work — bringing people together, figuring out what needs to change and making things happen.
+I get stuck into messy business problems, figure out what's causing them, and bring together the people, processes and tools to move things forward. That might mean reshaping a team, rethinking a customer journey or building an AI workflow.
 
 [Selected work](#selected-work) &nbsp; · &nbsp; [How I work](#how-i-work) &nbsp; · &nbsp; [EcoGrade.ai](https://ecograde.ai)
 
@@ -14,11 +14,13 @@ I love getting stuck into big ideas, messy problems and the details that make th
 
 ## Hello, I'm Beth.
 
-I work between the big picture and the detail: spotting opportunities, shaping a proposition, thinking through the customer experience, and helping turn ambitious ideas into something tangible.
+I work between the big picture and the detail. I'm quick to spot where work is getting stuck, map the underlying issues and work out what needs to change — across people, operations, product and customer experience.
 
 I'm **CEO of EcoGrade.ai**, an early-stage business exploring the role of AI in property energy efficiency and retrofit. As a **consultant and Chief of Staff**, I work across industries — including **SaaS, AI, FMCG, beauty, energy, property, marketing and agency businesses** — connecting strategy with the people, systems, creative thinking and execution needed to make it happen.
 
-Outside my core roles, I explore **product design, creative direction and applied AI**. I'm as interested in *how something feels and works* as I am in whether it makes business sense.
+My approach is hands-on and embedded: understand the business, work alongside the team, build something useful and help get it into everyday use. I use AI to research, prototype and build, including designing agentic workflows around real business problems. I'm as interested in *how something feels and works* as I am in whether it makes business sense.
+
+**Open to fractional Chief of Staff engagements and focused projects across business transformation, product and AI implementation.**
 
 ## Selected work
 
@@ -53,7 +55,9 @@ I move between founding, advising and building — from commercial strategy to t
 
 **Make things happen.** Connect ideas to priorities, people, systems, prototypes and delivery.
 
-**Stay curious.** Explore AI and emerging tools as practical ways to create and test new possibilities.
+**Build with AI.** Map the problem and workflow first, then use AI to prototype, build and test a practical solution. Think through the information an agent needs, the actions it can take and where a person should make the decision.
+
+**Make adoption part of delivery.** Consider who will use the solution, who owns it, what happens when it fails and how we'll know it's improving the work.
 
 **[Working with me →](projects/working-with-me.md)** — A more personal look at how I think, collaborate and make decisions, informed by my DISC & Motivators assessment.
 
@@ -81,11 +85,13 @@ I'm a generalist by nature, and that's something I see as a strength. I've led b
 - User-focused product development, UX principles and translating early ideas into useful products
 - Turning complex information into clear stories, propositions and experiences
 
-**AI, creative thinking & delivery**
-- Research-led AI model development and refinement, agent workflows and practical automation
-- Creative direction, brand concepts, design exploration and prototyping
-- Planning product infrastructure and working alongside technical teams to bring ideas to life
-- Connecting the commercial, creative and operational pieces rather than treating them as separate projects
+**Applied AI, creative thinking & delivery**
+- Quickly diagnosing business issues and identifying where AI or automation could make a useful difference
+- Mapping agentic workflows: tasks, information sources, handoffs, human decisions and measures of success
+- Building and testing prototypes, tools and workflows with AI-assisted and no-code tools
+- Creative direction, brand concepts, design exploration and product prototyping
+- Turning business needs into clear requirements and working with engineers where deeper technical expertise is needed
+- Connecting commercial priorities, customer experience and operational delivery
 
 ### The tools I work with
 
@@ -93,7 +99,8 @@ I'm not particularly loyal to software for its own sake. **The right tool depend
 
 | For | Tools and platforms |
 | --- | --- |
-| Projects & workflows | ChatGPT, Claude, Notion, ClickUp, Confluence, Jira, monday.com |
+| AI research, building & workflow design | ChatGPT, Claude |
+| Projects & workflows | Notion, ClickUp, Confluence, Jira, monday.com |
 | Meetings & follow-through | Fireflies for notes, decisions and actions |
 | Presentations & content | Gamma, Canva and AI-assisted drafting |
 | Governance & knowledge | Notion, Google Drive, Confluence |
@@ -112,13 +119,13 @@ I'm not particularly loyal to software for its own sake. **The right tool depend
 
 **Coding:** I have foundational HTML and JavaScript skills. I can work with code, understand product structure and collaborate with engineers, but I'm not a specialist developer.
 
-**Hands-on technical implementation:** I'm comfortable setting up and navigating project environments and using deployment tools, while recognising when deeper engineering expertise is needed.
+**Technical depth:** I build with AI and can navigate project environments and deployment tools. My background is in business, operations and product; for complex integrations, security and production engineering, I work with technical specialists.
 
 I like learning by building. I'm not trying to be an expert in every discipline — I'm good at bringing the right knowledge and people together, understanding enough to challenge the thinking, and keeping the work moving.
 
 ## Areas I'm exploring
 
-`Product strategy` · `UI/UX` · `AI-assisted prototyping` · `Digital commerce` · `Brand & creative direction` · `Climate tech` · `Business operations`
+`Agentic workflows` · `AI implementation` · `Product strategy` · `UI/UX` · `AI-assisted building` · `Digital commerce` · `Brand & creative direction` · `Climate tech` · `Business operations`
 
 ---
 
