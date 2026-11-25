@@ -6,7 +6,7 @@
 
 Connecting commercial strategy, organisational change and practical AI implementation.
 
-[Profile](#profile) &nbsp; · &nbsp; [Capabilities](#capabilities) &nbsp; · &nbsp; [Selected work](#selected-work) &nbsp; · &nbsp; [Approach](#approach) &nbsp; · &nbsp; [Engagements](#engagements)
+[Profile](#profile) &nbsp; · &nbsp; [Capabilities](#capabilities) &nbsp; · &nbsp; [Skills hub](#skills-hub) &nbsp; · &nbsp; [Selected work](#selected-work) &nbsp; · &nbsp; [Approach](#approach) &nbsp; · &nbsp; [Engagements](#engagements)
 
 </div>
 
@@ -109,19 +109,21 @@ I work directly with teams throughout delivery, combining strategic oversight wi
 
 **[Working with me →](projects/working-with-me.md)** — Collaboration and decision-making preferences, informed by my DISC & Motivators assessment.
 
-## Tools & platforms
+## Skills hub
 
-Tool selection follows the needs of the business, its existing systems and the people using them.
+A practical mix of business leadership, product thinking and AI-assisted delivery.
 
-| Application | Tools and platforms |
-| --- | --- |
-| AI research, building & workflow design | ChatGPT, Claude |
-| Project & workflow management | Notion, ClickUp, Confluence, Jira, monday.com |
-| Meeting documentation & actions | Fireflies |
-| Presentations & content | Gamma, Canva |
-| Governance & knowledge management | Notion, Google Drive, Confluence |
-| Design & prototyping | Figma, Adobe Creative Cloud, Canva |
-| Project environments & deployment | GitHub, Vercel, AWS |
+| Discipline | Skills & methods | Tools & platforms |
+| :--- | :--- | :--- |
+| **Strategy & commercial** | Business diagnosis · Growth strategy · Go-to-market planning · Commercial planning · Strategic partnerships | Notion · Miro · Gamma |
+| **Organisation & operations** | Operating models · Organisation design · Workforce planning · Process mapping · Performance management · Governance | ClickUp · Notion · Confluence · monday.com |
+| **UX/UI design** | Wireframing, from low to high fidelity · Interactive prototyping · Interaction design · Customer journeys | Figma · Figma Make · Adobe Creative Cloud |
+| **Research & insight** | Customer research · Personas · Journey mapping · User testing · Translating findings into product requirements | Miro · Figma · AI research tools |
+| **Information architecture & content** | Navigation and content structure · Knowledge systems · Content strategy · Clear user guidance | Notion · Confluence · Google Drive |
+| **Brand & product marketing** | Value propositions · Positioning · Creative direction · Product storytelling · Customer experience | Adobe Creative Cloud · Canva · Gamma |
+| **Applied AI & agentic workflows** | Problem definition · Agent workflow mapping · Task and data requirements · Human oversight · Prototyping · Adoption planning | Claude · Claude Code · ChatGPT · Base44 |
+| **AI-assisted building** | Rapid prototypes · No-code workflows · Product requirements · Deployment workflows · Foundational HTML & JavaScript | Figma Make · GitHub · Vercel · AWS |
+| **Delivery & stakeholders** | Cross-functional delivery · Prioritisation · Stakeholder management · Change implementation · Decisions and actions | Jira · ClickUp · Confluence · Fireflies |
 
 ### Continuing development
 
