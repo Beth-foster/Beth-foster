@@ -18,7 +18,7 @@ Founder, consultant and Chief of Staff with experience leading businesses, devel
 
 I work with founders and leadership teams to diagnose business challenges, establish priorities and translate strategy into delivery. My work spans operating models, organisational design, commercial planning, product development and customer experience.
 
-As **CEO of [EcoGrade.ai](https://ecograde.ai)**, I lead an early-stage venture exploring AI applications in property energy efficiency and retrofit. Alongside my leadership and advisory work, I design agentic workflows and use AI tools to build and test practical solutions.
+I lead **[EcoGrade.ai](https://ecograde.ai)**, an early-stage venture exploring AI applications in property energy efficiency and retrofit. Alongside my leadership and advisory work, I design agentic workflows and use AI tools to build and test practical solutions.
 
 ## Capabilities
 
@@ -88,7 +88,7 @@ Selected projects spanning applied AI, product experience, brand development and
 
 ### Ventures
 
-**[EcoGrade.ai ↗](https://ecograde.ai)** — As CEO, shaping an early-stage AI and property energy-efficiency venture across product, commercial development and go-to-market.
+**[EcoGrade.ai ↗](https://ecograde.ai)** — Leading an early-stage AI and property energy-efficiency venture across product, commercial development and go-to-market.
 
 **The Somewhere** — An early-stage exploration in conversation-led communities and digital membership. *Work in progress.*
 
