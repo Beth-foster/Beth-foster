@@ -22,33 +22,48 @@ As **CEO of [EcoGrade.ai](https://ecograde.ai)**, I lead an early-stage venture 
 
 ## Capabilities
 
-### Strategy & executive delivery
-
-- Fractional Chief of Staff support and executive advisory
-- Business and growth strategy, commercial planning and go-to-market development
-- Strategic partnerships, negotiation and stakeholder management
-- Leadership priorities, cross-functional programmes and performance reporting
-
-### Organisation & operations
-
-- Operating models, organisational structures and workforce planning
-- Team development, people functions and performance management
-- Process diagnosis, operational improvement and change implementation
-- Governance, policy development and knowledge systems
-
-### Product, brand & customer experience
-
-- Product propositions, customer journeys and UX direction
-- Brand strategy, creative direction and product marketing
-- Research, prototyping and translating concepts into product requirements
-- Connecting customer needs with commercial objectives and delivery priorities
-
-### Applied AI & workflow design
-
-- Identifying business problems suited to AI and automation
-- Designing agentic workflows, including information sources, actions, handoffs and human oversight
-- Building and testing prototypes, tools and workflows using AI-assisted and no-code platforms
-- Defining requirements, adoption plans and measures of success
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="assets/capability-strategy.svg" alt="Strategy &amp; executive delivery" width="100%">
+<ul>
+<li>Fractional Chief of Staff support and executive advisory</li>
+<li>Business and growth strategy, commercial planning and go-to-market development</li>
+<li>Strategic partnerships, negotiation and stakeholder management</li>
+<li>Leadership priorities, cross-functional programmes and performance reporting</li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<img src="assets/capability-operations.svg" alt="Organisation &amp; operations" width="100%">
+<ul>
+<li>Operating models, organisational structures and workforce planning</li>
+<li>Team development, people functions and performance management</li>
+<li>Process diagnosis, operational improvement and change implementation</li>
+<li>Governance, policy development and knowledge systems</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="assets/capability-product.svg" alt="Product, brand &amp; customer experience" width="100%">
+<ul>
+<li>Product propositions, customer journeys and UX direction</li>
+<li>Brand strategy, creative direction and product marketing</li>
+<li>Research, prototyping and translating concepts into product requirements</li>
+<li>Connecting customer needs with commercial objectives and delivery priorities</li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<img src="assets/capability-ai.svg" alt="Applied AI &amp; workflow design" width="100%">
+<ul>
+<li>Identifying business problems suited to AI and automation</li>
+<li>Designing agentic workflows, including information sources, actions, handoffs and human oversight</li>
+<li>Building and testing prototypes, tools and workflows using AI-assisted and no-code platforms</li>
+<li>Defining requirements, adoption plans and measures of success</li>
+</ul>
+</td>
+</tr>
+</table>
 
 My technical contribution centres on business diagnosis, solution design and building with AI. I work with engineering specialists where complex integrations, security or production infrastructure require deeper expertise.
 
