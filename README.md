@@ -4,27 +4,59 @@
 
 **Fractional Chief of Staff · Business Transformation · Applied AI & Product**
 
-I get stuck into messy business problems, figure out what's causing them, and bring together the people, processes and tools to move things forward. That might mean reshaping a team, rethinking a customer journey or building an AI workflow.
+Connecting commercial strategy, organisational change and practical AI implementation.
 
-[Selected work](#selected-work) &nbsp; · &nbsp; [How I work](#how-i-work) &nbsp; · &nbsp; [EcoGrade.ai](https://ecograde.ai)
+[Profile](#profile) &nbsp; · &nbsp; [Capabilities](#capabilities) &nbsp; · &nbsp; [Selected work](#selected-work) &nbsp; · &nbsp; [Approach](#approach) &nbsp; · &nbsp; [Engagements](#engagements)
 
 </div>
 
 ---
 
-## Hello, I'm Beth.
+## Profile
 
-I work between the big picture and the detail. I'm quick to spot where work is getting stuck, map the underlying issues and work out what needs to change — across people, operations, product and customer experience.
+Founder, consultant and Chief of Staff with experience leading businesses, developing teams and delivering change across SaaS, AI, property, energy, FMCG, beauty and agency environments.
 
-I'm **CEO of EcoGrade.ai**, an early-stage business exploring the role of AI in property energy efficiency and retrofit. As a **consultant and Chief of Staff**, I work across industries — including **SaaS, AI, FMCG, beauty, energy, property, marketing and agency businesses** — connecting strategy with the people, systems, creative thinking and execution needed to make it happen.
+I work with founders and leadership teams to diagnose business challenges, establish priorities and translate strategy into delivery. My work spans operating models, organisational design, commercial planning, product development and customer experience.
 
-My approach is hands-on and embedded: understand the business, work alongside the team, build something useful and help get it into everyday use. I use AI to research, prototype and build, including designing agentic workflows around real business problems. I'm as interested in *how something feels and works* as I am in whether it makes business sense.
+As **CEO of [EcoGrade.ai](https://ecograde.ai)**, I lead an early-stage venture exploring AI applications in property energy efficiency and retrofit. Alongside my leadership and advisory work, I design agentic workflows and use AI tools to build and test practical solutions.
 
-**Open to fractional Chief of Staff engagements and focused projects across business transformation, product and AI implementation.**
+## Capabilities
+
+### Strategy & executive delivery
+
+- Fractional Chief of Staff support and executive advisory
+- Business and growth strategy, commercial planning and go-to-market development
+- Strategic partnerships, negotiation and stakeholder management
+- Leadership priorities, cross-functional programmes and performance reporting
+
+### Organisation & operations
+
+- Operating models, organisational structures and workforce planning
+- Team development, people functions and performance management
+- Process diagnosis, operational improvement and change implementation
+- Governance, policy development and knowledge systems
+
+### Product, brand & customer experience
+
+- Product propositions, customer journeys and UX direction
+- Brand strategy, creative direction and product marketing
+- Research, prototyping and translating concepts into product requirements
+- Connecting customer needs with commercial objectives and delivery priorities
+
+### Applied AI & workflow design
+
+- Identifying business problems suited to AI and automation
+- Designing agentic workflows, including information sources, actions, handoffs and human oversight
+- Building and testing prototypes, tools and workflows using AI-assisted and no-code platforms
+- Defining requirements, adoption plans and measures of success
+
+My technical contribution centres on business diagnosis, solution design and building with AI. I work with engineering specialists where complex integrations, security or production infrastructure require deeper expertise.
+
+---
 
 ## Selected work
 
-I move between founding, advising and building — from commercial strategy to the details of a digital experience. These are a few of the ideas and products I'm shaping.
+Selected projects spanning applied AI, product experience, brand development and organisational transformation.
 
 <a href="projects/axiva.md"><img src="assets/axiva-cover.svg" alt="Axiva — AI product and customer experience case study" width="49%"></a>
 <a href="projects/varenne-blue.md"><img src="assets/varenne-figma-home.png" alt="Varenne Residences — actual blue-identity homepage design from Figma" width="49%"></a>
@@ -39,94 +71,59 @@ I move between founding, advising and building — from commercial strategy to t
 
 **[Designing for growth: 80 → 220 people →](projects/organisational-growth.md)** — How I approached an ambitious, cross-geography workforce plan through organisation design, hiring principles, employer brand, leadership development, culture and budget discipline.
 
-### Also building
+### Ventures
 
 **[EcoGrade.ai ↗](https://ecograde.ai)** — As CEO, shaping an early-stage AI and property energy-efficiency venture across product, commercial development and go-to-market.
 
 **The Somewhere** — An early-stage exploration in conversation-led communities and digital membership. *Work in progress.*
 
+
 ---
 
-## How I work
+## Approach
 
-**Think commercially.** Understand the audience, market, proposition and what success needs to look like.
+**Diagnose.** Understand the underlying problem, the people involved and the commercial consequences.
 
-**Design thoughtfully.** Build a coherent experience — from the overarching story to the smallest interaction.
+**Prioritise.** Define the intended outcome, establish ownership and agree a practical scope.
 
-**Make things happen.** Connect ideas to priorities, people, systems, prototypes and delivery.
+**Design and build.** Map the process or experience, test assumptions and develop a workable solution using the appropriate tools.
 
-**Build with AI.** Map the problem and workflow first, then use AI to prototype, build and test a practical solution. Think through the information an agent needs, the actions it can take and where a person should make the decision.
+**Implement and evaluate.** Support adoption, document responsibilities and assess results against agreed measures.
 
-**Make adoption part of delivery.** Consider who will use the solution, who owns it, what happens when it fails and how we'll know it's improving the work.
+I work directly with teams throughout delivery, combining strategic oversight with practical involvement.
 
-**[Working with me →](projects/working-with-me.md)** — A more personal look at how I think, collaborate and make decisions, informed by my DISC & Motivators assessment.
+**[Working with me →](projects/working-with-me.md)** — Collaboration and decision-making preferences, informed by my DISC & Motivators assessment.
 
-## What I bring to the table
+## Tools & platforms
 
-I'm a generalist by nature, and that's something I see as a strength. I've led businesses and teams, worked closely with founders and CEOs, built products, shaped commercial strategy and helped organisations navigate change. I'm just as happy getting into the detail as I am helping work out the bigger picture.
+Tool selection follows the needs of the business, its existing systems and the people using them.
 
-### What I'm confident doing
-
-**Strategy, leadership & commercial**
-- Business and growth strategy, commercial planning, budgets and performance
-- Executive advisory and Chief of Staff work — helping leadership turn priorities into action
-- Negotiation, strategic partnerships, stakeholder relationships and go-to-market planning
-- Building operating models and organisational structures that can actually scale
-
-**People, operations & transformation**
-- Building and developing teams, leadership structures and people functions
-- Organisational design, workforce planning, performance management and culture
-- Cross-functional programme delivery, change management and operational improvement
-- Governance, policy development, documentation and putting practical controls in place
-
-**Marketing, product & customer experience**
-- Brand and marketing strategy, digital marketing and product marketing
-- Value propositions, positioning, customer journeys and conversion thinking
-- User-focused product development, UX principles and translating early ideas into useful products
-- Turning complex information into clear stories, propositions and experiences
-
-**Applied AI, creative thinking & delivery**
-- Quickly diagnosing business issues and identifying where AI or automation could make a useful difference
-- Mapping agentic workflows: tasks, information sources, handoffs, human decisions and measures of success
-- Building and testing prototypes, tools and workflows with AI-assisted and no-code tools
-- Creative direction, brand concepts, design exploration and product prototyping
-- Turning business needs into clear requirements and working with engineers where deeper technical expertise is needed
-- Connecting commercial priorities, customer experience and operational delivery
-
-### The tools I work with
-
-I'm not particularly loyal to software for its own sake. **The right tool depends on the client, the team and the problem.** I can work within an established setup or help introduce something more useful.
-
-| For | Tools and platforms |
+| Application | Tools and platforms |
 | --- | --- |
 | AI research, building & workflow design | ChatGPT, Claude |
-| Projects & workflows | Notion, ClickUp, Confluence, Jira, monday.com |
-| Meetings & follow-through | Fireflies for notes, decisions and actions |
-| Presentations & content | Gamma, Canva and AI-assisted drafting |
-| Governance & knowledge | Notion, Google Drive, Confluence |
-| Design & prototypes | Figma, Adobe Creative Cloud, Canva |
-| Technical projects & deployment | GitHub, Vercel, AWS |
+| Project & workflow management | Notion, ClickUp, Confluence, Jira, monday.com |
+| Meeting documentation & actions | Fireflies |
+| Presentations & content | Gamma, Canva |
+| Governance & knowledge management | Notion, Google Drive, Confluence |
+| Design & prototyping | Figma, Adobe Creative Cloud, Canva |
+| Project environments & deployment | GitHub, Vercel, AWS |
 
-**My preferences:** ClickUp or Notion for managing work; Vercel for building and deploying web projects. But I adapt to what makes sense for the business.
+### Continuing development
 
-### Things I'm OK at — and getting better at
+I continue to develop my experience in community growth, direct sales and financial investigation. I have foundational HTML and JavaScript skills, supported by practical experience building with AI and collaborating with technical teams.
 
-**Community building & positioning:** I enjoy thinking about how communities form, what brings people together and how to give them a clear identity and reason to engage. I'm still developing my practical experience in building and growing communities.
+## Engagements
 
-**Sales & business development:** I've worked on commercial opportunities, partnerships and propositions, but I want to sharpen my hands-on sales and new-business development skills. It's an area I'm actively improving.
+Available for **fractional Chief of Staff engagements** and **defined advisory or implementation projects**, including:
 
-**Finance & financial forensics:** I'm comfortable with financial planning, budgets and commercial performance. I'm developing more depth in the investigative side — getting into the numbers, tracing what's driving the results and spotting what might have been missed.
+- Translating leadership priorities into a coordinated delivery plan
+- Reviewing organisational structures, responsibilities and operating processes
+- Diagnosing workflow issues and designing practical AI solutions
+- Developing product propositions, customer journeys and early prototypes
+- Moving stalled initiatives through to implementation
 
-**Coding:** I have foundational HTML and JavaScript skills. I can work with code, understand product structure and collaborate with engineers, but I'm not a specialist developer.
-
-**Technical depth:** I build with AI and can navigate project environments and deployment tools. My background is in business, operations and product; for complex integrations, security and production engineering, I work with technical specialists.
-
-I like learning by building. I'm not trying to be an expert in every discipline — I'm good at bringing the right knowledge and people together, understanding enough to challenge the thinking, and keeping the work moving.
-
-## Areas I'm exploring
-
-`Agentic workflows` · `AI implementation` · `Product strategy` · `UI/UX` · `AI-assisted building` · `Digital commerce` · `Brand & creative direction` · `Climate tech` · `Business operations`
+Based in **Amersham, Buckinghamshire**, with access to London.
 
 ---
 
-<sub>This profile is a curated view of my work and experiments, not a complete record of the businesses or teams behind them. Some commercial and client projects are represented as case studies rather than open-source code.</sub>
+<sub>Selected client and commercial work is presented through case studies. Project pages describe the scope and stage of each initiative.</sub>
